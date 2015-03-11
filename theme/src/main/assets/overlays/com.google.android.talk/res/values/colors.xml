@@ -2,7 +2,7 @@
 <resources>
     <drawable name="ab_solid">#FF535353</drawable>
     <color name="primary">#FF272048</color>
-    <color name="primary_dark">#FF272048</color>
+    <color name="primary_dark">#FF141025</color>
     <drawable name="abc_list_divider_holo_dark">@android:color/transparent</drawable>
     <drawable name="abc_list_divider_holo_light">@android:color/transparent</drawable>
     <drawable name="divider">@android:color/transparent</drawable>

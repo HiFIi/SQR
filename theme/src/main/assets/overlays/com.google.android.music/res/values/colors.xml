@@ -18,7 +18,7 @@
 <resources>
 
     <color name="play_music_primary">#ff272048</color>
-    <color name="play_music_primary_disabled">#80272048</color>
-    <color name="play_music_secondary">#ff272048</color>
+    <color name="play_music_primary_disabled">#80141025</color>
+    <color name="play_music_secondary">#ff141025</color>
 	
 </resources>
