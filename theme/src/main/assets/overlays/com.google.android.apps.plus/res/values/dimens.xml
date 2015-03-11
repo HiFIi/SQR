@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="actionbar_profile_avatar_ring_inner_radius">2.0dip</dimen>
+    <dimen name="actionbar_profile_avatar_ring_thickness">0.5dip</dimen>   
+
+</resources>

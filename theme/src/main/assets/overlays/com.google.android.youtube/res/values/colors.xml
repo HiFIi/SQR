@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#ff272048</color>
+    <color name="color_secondary">#ff272048</color>
+    <color name="theme_main_color_primary">#ff272048</color>
+    <color name="theme_main_color_primary_dark">#ff141025</color>
+    <color name="share_panel_divider_color">#00000000</color>
+    <color name="line_separator">#00000000</color>
+    <color name="theme_main_actionbar_controls_color">#ffffffff</color>
+    <color name="red">#ff272048</color>
+    <color name="theme_search_color_primary">#ff272048</color>
+    <color name="theme_search_color_primary_dark">#ff141025</color>
+    <color name="theme_search_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_search_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="theme_native_actionbar_text_color_primary">#ffffffff</color>
+    <color name="theme_native_actionbar_text_color_secondary">#ffffffff</color>
+    <color name="viewfinder_laser">#ff272048</color>
+    <color name="share_panel_warning_text_color">#ff272048</color>
+    <color name="common_signin_btn_default_background">#ff272048</color>
+    <color name="account_switcher_color_primary">#ff272048</color>
+    <color name="phone_number_verification_red">#ff272048</color>
+    <color name="app_bar_primary_background">#ff272048</color>
+    <color name="upload_edit_video_tutorial_border">#ff272048</color>
+    <color name="remote_queue_time_bar">#ff272048</color>
+    <color name="startup_promo_activity_pagination_cursor_color">#ff272048</color>
+    <color name="ripple_material_dark">#33C0392B</color>
+    <color name="ripple_material_light">#33C0392B</color>
+    <color name="q_subscribe_button_subscribe_font_color">#ff272048</color>
+    <color name="theme_main_tab_text_color_activated">@android:color/white</color>
+    <color name="theme_main_tab_text_color_normal">@android:color/white</color>
+    <color name="theme_tab_fallback_text_color_activated_dark">#ff333333</color>
+    <color name="theme_tab_fallback_text_color_normal_dark">#99333333</color>
+</resources>

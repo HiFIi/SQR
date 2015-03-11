@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_multi">#ff46494C</color>
+    <color name="play_multi_primary">#ff46494C</color>
+    <color name="play_multi_primary_disabled">#ff46494C</color>
+    <color name="play_multi_secondary">#ff46494C</color>
+    <color name="play_main_background">#ffe2e2e2</color>
+    
+    <color name="play_movies_light">#ffe26d5c</color>
+    <color name="play_movies_primary">#ffe26d5c</color>
+    <color name="play_movies_primary_disabled">#80e26d5c</color>
+    <color name="play_movies_recents">#ffe26d5c</color>
+    <color name="play_movies_secondary">#ffe26d5c</color>
+    
+    <color name="play_music_light">#ffff722b</color>
+    <color name="play_music_primary">#ffff722b</color>
+    <color name="play_music_primary_disabled">#80ff722b</color>
+    <color name="play_music_recents">#ffff722b</color>
+    <color name="play_music_secondary">#ffff722b</color>
+    
+    <color name="play_newsstand_light">#ff272048</color>
+    <color name="play_newsstand_primary">#ff272048</color>
+    <color name="play_newsstand_primary_disabled">#80272048</color>
+    <color name="play_newsstand_recents">#ff272048</color>
+    <color name="play_newsstand_secondary">#ff272048</color>
+    
+    <color name="status_bar_apps">#ff78b44d</color>
+    <color name="status_bar_books">#ff4e87b6</color>
+    <color name="status_bar_movies">#ffe26d5c</color>
+    <color name="status_bar_music">#ffff722b</color>
+    <color name="status_bar_newsstand">#ff272048</color>
+    
+    <color name="play_card_light_background">#fffafafa</color>
+    <color name="play_card_shadow_end_color">#00000000</color>
+    <color name="play_card_shadow_start_color">#00000000</color>
+    <color name="play_default_download_arc_color_offline">#ff999999</color>
+    <color name="play_disabled_black">#ffc0c0c0</color>
+    <color name="play_disabled_grey">#ffd0d0d0</color>
+    <color name="play_dismissed_overlay">#d0eeeeee</color>
+    <color name="play_download_arc_background_color_download">#ffbbbbbb</color>
+    <color name="play_download_arc_background_color_press">#ff000000</color>
+    <color name="play_drawer_profile_overlay_shade">#00000000</color>    
+    
+</resources>

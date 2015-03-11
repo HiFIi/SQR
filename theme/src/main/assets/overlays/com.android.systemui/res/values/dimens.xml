@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="status_bar_icon_drawing_size">18.0dip</dimen>
+    <dimen name="status_bar_clock_size">14sp</dimen>
+    <dimen name="status_bar_header_height">60.0dip</dimen>
+    <dimen name="status_bar_header_height_expanded">130.0dip</dimen>
+    <dimen name="weather_text_size">12sp</dimen>
+    <dimen name="qs_tile_icon_size">30.0dip</dimen>
+    <dimen name="qs_tile_text_size">10.0sp</dimen>
+    <dimen name="status_bar_icon_padding">0.2dip</dimen>
+    <dimen name="qs_tile_height">90.0dip</dimen>
+    <dimen name="qs_dual_tile_height">110.0dip</dimen>
+</resources>

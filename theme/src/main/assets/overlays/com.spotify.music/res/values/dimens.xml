@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cat_button_border_width">2.0dip</dimen>
+    <dimen name="cat_button_corner_radius">24.0sp</dimen>
+    <dimen name="cat_button_height">48.0sp</dimen>
+    <dimen name="cat_button_padding">34.0sp</dimen>
+    <dimen name="cat_button_small_border_width">1.0dip</dimen>
+    <dimen name="cat_button_small_corner_radius">12.0sp</dimen>
+    <dimen name="cat_button_small_height">24.0sp</dimen>
+    <dimen name="cat_button_small_padding">19.0sp</dimen>
+    <dimen name="cat_dialog_corner_radius">2.0dip</dimen>
+    <dimen name="cat_empty_view_accessory_margin_top">24.0dip</dimen>
+    <dimen name="cat_empty_view_drawable_margin_bottom">24.0dip</dimen>
+    <dimen name="cat_empty_view_text_margin_top">8.0dip</dimen>
+    <dimen name="cat_navigationitem_height">56.0dip</dimen>
+    <dimen name="cat_navigationitem_icon_padding">16.0dip</dimen>
+    <dimen name="cat_navigationitem_icon_size">18.0sp</dimen>
+    <dimen name="cat_navigationitem_padding">22.0dip</dimen>
+    <dimen name="cat_navigationitem_text_size">16.0sp</dimen>
+    <dimen name="cat_notificationbadge_min_size">16.0dip</dimen>
+    <dimen name="context_menu_width">320.0dip</dimen>
+</resources>

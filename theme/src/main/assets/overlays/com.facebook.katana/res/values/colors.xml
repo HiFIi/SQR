@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fbui_facebook_blue">#ff272048</color>
+    <color name="fbui_accent_blue">#ff5890ff</color>
+    <color name="fbui_red">#ffda2929</color>
+    <color name="fbui_green">#ff46a800</color>
+    <color name="fbui_white">#ffffffff</color>
+    <color name="fbui_black">#ff000000</color>
+    <color name="fbui_light_blue">#ffafc6f0</color>
+    <color name="fbui_facebook_blue_f0">#f0272048</color>
+    <color name="fb_blue">#ff272048</color>
+    <color name="rap_dark_blue">#ff272048</color>
+</resources>

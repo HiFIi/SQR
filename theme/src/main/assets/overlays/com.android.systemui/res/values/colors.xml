@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (C) 2014 The CyanogenMod Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+-->
+
+<resources>
+    <color name="system_primary_color">#ff272048</color>
+    <color name="system_secondary_color">#ff141025</color>
+    <color name="notifheader_color">#ff272048</color>
+    <color name="system_accent_color">#ff141025</color>
+    <color name="theme_accent">#ff272048</color>
+    <color name="fab_color">#ff272048</color>
+    <color name="floating_action_button_icon_color">#ffffffff</color>
+    <color name="qs_tile_divider">#6D141025</color>
+    <color name="notification_ripple_untinted_color">#ff272048</color>
+    <color name="notification_ripple_color_low_priority">#ff272048</color>
+    <color name="batterymeter_bolt_color">#ff44387d</color>
+    <color name="search_panel_ripple_color">#ff272048</color>
+    <color name="recents_task_bar_default_background_color">#ff272048</color>
+    <color name="recents_task_bar_dark_dismiss_color">#ffffffff</color>
+    <color name="recents_task_bar_light_dismiss_color">#ff141025</color>
+    <color name="current_user_border_color">#ff272048</color>
+    <color name="notification_material_background_dimmed_color">#ffffffff</color>
+    <color name="notification_material_background_color">#ffffffff</color>
+    <color name="notification_material_background_low_priority_color">#d3f9f9f9</color>
+    <color name="notification_material_background_media_default_color">#ff272048</color>
+    <color name="white">#fff7f7f7</color>
+    <color name="pie_overlay_color">#ff000000</color>
+    <color name="pie_foreground_color">#ff272048</color>
+    <color name="pie_background_color">#ffffffff</color>
+    <color name="pie_selected_color">#ff272048</color>
+    <color name="pie_long_pressed_color">#ff8c8c8c</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drawer_max_width">320.0dip</dimen>
+    <dimen name="nowspace_header_height">56.0dip</dimen>
+    <dimen name="nowspace_header_logo_height">24.0dip</dimen>
+    <dimen name="nowspace_header_logo_margin_top">16.0dip</dimen>
+    <dimen name="nowspace_search_logo_height">56.0dip</dimen>
+    <dimen name="nowspace_search_doodle_height">96.0dip</dimen>
+    <dimen name="nowspace_context_message_offset">216.0dip</dimen>
+    <dimen name="nowspace_context_message_height">120.0dip</dimen>
+    <dimen name="nowspace_context_image_height">400.0dip</dimen>
+    <dimen name="nowspace_legacy_context_image_height">400.0dip</dimen>
+    <dimen name="contact_avatar_height">175.0dip</dimen>
+    <dimen name="progress_bar_height">10.0dip</dimen>
+    <dimen name="min_height_background_image">170.0dip</dimen>
+    <dimen name="selected_account_height">185.0dip</dimen>
+</resources>
