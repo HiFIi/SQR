@@ -8,7 +8,7 @@
         <item name="android:colorPrimary">#ff242048</item>
         <item name="android:colorPrimaryDark">#ff141025</item>
         <item name="android:colorAccent">#ff242048</item>
-        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:navigationBarColor">#141517</item>
 	</style>
 	
     <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">

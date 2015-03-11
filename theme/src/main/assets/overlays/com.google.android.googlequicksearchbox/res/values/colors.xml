@@ -17,15 +17,15 @@
 
 <resources>
 
-    <color name="progress_bar_green">#ff272048</color>
-    <color name="progress_bar_red">#ff31285a</color>
-    <color name="progress_bar_blue">#ff3a306b</color>
-    <color name="progress_bar_yellow">#ff44387d</color>
+    <color name="progress_bar_green">#FF4CAF50</color>
+    <color name="progress_bar_red">#FFF44336</color>
+    <color name="progress_bar_blue">#FF448AFF</color>
+    <color name="progress_bar_yellow">#FFFFEB3B</color>
     <color name="qp_status_none">#ff272048</color>
     <color name="qp_card_separator">#00000000</color>
     <color name="quick_action_separator_white">#00ffffff</color>
     <color name="qp_ripple_dark">#ff272048</color>
     <color name="qp_divider">#00000000</color>
     <color name="link_text">#ff272048</color>
-	
+   
 </resources>

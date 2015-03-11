@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="key_text_color_lxx_light">#ff272048</color>
+    <color name="key_hint_letter_color_lxx_light">#ff272048</color>
+    <color name="key_functional_text_color_lxx_light">#ff272048</color>
+    <color name="highlight_color_lxx_light">#ff272048</color>
+    <color name="auto_correct_color_lxx_light">#ff272048</color>
+    <color name="suggested_word_color_lxx_light">#ff272048</color>
+    <color name="gesture_trail_color_lxx_light">#ff272048</color>
+    <color name="sliding_key_input_preview_color_lxx_light">#ff272048</color>
+    <color name="key_background_lxx_dark">#ff141517</color>
+ 
+
+    <color name="key_text_color_lxx_dark">#fff5f5f5</color>
+    <color name="key_hint_letter_color_lxx_dark">#fff5f5f5</color>
+    <color name="key_functional_text_color_lxx_dark">#fff5f5f5</color>
+    <color name="highlight_color_lxx_dark">#fff5f5f5</color>
+    <color name="auto_correct_color_lxx_dark">#fff5f5f5</color>
+    <color name="suggested_word_color_lxx_dark">#fff5f5f5</color>
+    <color name="gesture_trail_color_lxx_dark">#fff5f5f5</color>
+    <color name="sliding_key_input_preview_color_lxx_dark">#fff5f5f5</color>
+    <color name="key_background_lxx_light">#fff7f7f7</color>
+
+</resources>

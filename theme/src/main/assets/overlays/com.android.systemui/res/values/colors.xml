@@ -17,7 +17,7 @@
 
 <resources>
     <color name="system_primary_color">#ff272048</color>
-    <color name="system_secondary_color">#ff141025</color>
+    <color name="system_secondary_color">#fff6f6fb</color>
     <color name="notifheader_color">#ff272048</color>
     <color name="system_accent_color">#ff141025</color>
     <color name="theme_accent">#ff272048</color>
@@ -26,7 +26,7 @@
     <color name="qs_tile_divider">#6D141025</color>
     <color name="notification_ripple_untinted_color">#ff272048</color>
     <color name="notification_ripple_color_low_priority">#ff272048</color>
-    <color name="batterymeter_bolt_color">#ff44387d</color>
+    <color name="batterymeter_bolt_color">#fff7f7f7</color>
     <color name="search_panel_ripple_color">#ff272048</color>
     <color name="recents_task_bar_default_background_color">#ff272048</color>
     <color name="recents_task_bar_dark_dismiss_color">#ffffffff</color>
@@ -42,4 +42,7 @@
     <color name="pie_background_color">#ffffffff</color>
     <color name="pie_selected_color">#ff272048</color>
     <color name="pie_long_pressed_color">#ff8c8c8c</color>
+    
+    <color name="qs_detail_progress_track">#99272048</color>
+    <color name="segmented_button_text_inactive">#99f9f9f9</color>
 </resources>
