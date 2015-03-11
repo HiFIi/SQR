@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_notification_accent_color">#ff333333</color>
+    <color name="battery_saver_mode_color">#00f4511e</color>
+    <color name="user_icon_1">#ffffffff</color>
+    <color name="material_deep_teal_200">#ff44387d</color>
+    <color name="material_deep_teal_500">#ff272048</color>
+    <color name="material_blue_grey_800">#ff1d1836</color>
+    <color name="material_blue_grey_900">#ff141025</color>
+    <color name="material_blue_grey_950">#ff0A0813</color>
+</resources>
