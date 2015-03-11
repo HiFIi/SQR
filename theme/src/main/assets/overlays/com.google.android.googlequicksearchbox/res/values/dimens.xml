@@ -11,7 +11,7 @@
     <dimen name="nowspace_context_image_height">400.0dip</dimen>
     <dimen name="nowspace_legacy_context_image_height">400.0dip</dimen>
     <dimen name="contact_avatar_height">175.0dip</dimen>
-    <dimen name="progress_bar_height">10.0dip</dimen>
+    <dimen name="progress_bar_height">6.0dip</dimen>
     <dimen name="min_height_background_image">170.0dip</dimen>
     <dimen name="selected_account_height">185.0dip</dimen>
 </resources>
