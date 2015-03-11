@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="action_bar_style" parent="@android:style/Widget.Material.ActionBar" >
+         <item name="android:background">#272048</item>
+    </style>
+         
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/action_bar_style</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff141025</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">#272048</item>
+        <item name="android:colorPrimaryDark">#141025</item>
+        <item name="android:colorAccent">#272048</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+    </style>
+    
+</resources>

@@ -27,4 +27,5 @@
         <item name="android:colorAccent">@color/maps_blue_sqr</item>
         <item name="android:navigationBarColor">@android:color/black</item>      
     </style>
+    
 </resources>

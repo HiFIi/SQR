@@ -13,9 +13,9 @@
     <color name="dialpad_secondary_text_color">#FF272048</color>
     <color name="dialpad_digits_text_color">#FF272048</color>
     <color name="dialpad_separator_line_color">#00000000</color>
-    <color name="dialpad_calling_rates_text_color">#ff5e8c5a</color>
+    <color name="dialpad_calling_rates_text_color">#fffafafa</color>
     <color name="dialpad_calling_rates_text_highlight_color">#FF272048</color>
-    <color name="background_dialpad">#fff9fff9</color>
+    <color name="background_dialpad">#fff1f1f1</color>
     <color name="background_dialpad_pressed">#7051803d</color>
     <color name="attachment_name_background_color">#ff232323</color>
     <color name="text_default_color_dark">#FF272048</color>
@@ -31,16 +31,20 @@
     <color name="realtimechat_message_textlink">#ff727272</color>
     <color name="pressed_bg">#6762A55D</color>
     <color name="focused_bg">#4d62A55D</color>
-    <color name="bg_item_activated">#6762A55D</color>
-    <color name="bg_item_selected">#cc62A55D</color>
-    <color name="bg_item_pressed">#6762A55D</color>
+    <color name="bg_item_activated">#67272048</color>
+    <color name="bg_item_selected">#cc272048</color>
+    <color name="bg_item_pressed">#67272048</color>
     <color name="prim_txt_mtrl_light">#FF3B3B3B</color>
     <color name="prim_txt_mtrl_dark">#ffffffff</color>
     <color name="sec_txt_mtrl_light">#50000000</color>
     <color name="sec_txt_mtrl_dark">#50ffffff</color>
+    <color name="transparent_green">#f2272048</color>
+    
+    <color name="dark_green">#ff272048</color>
+    <color name="light_green">#ff141025</color>
 
-    <color name="ripple_mtrl_dark">#a3ffad9b</color>
-    <color name="ripple_mtrl_light">#a3e28876</color>
+    <color name="ripple_mtrl_dark">#a3272048</color>
+    <color name="ripple_mtrl_light">#a3272048</color>
 
     <color name="transparent">#00000000</color>
     
