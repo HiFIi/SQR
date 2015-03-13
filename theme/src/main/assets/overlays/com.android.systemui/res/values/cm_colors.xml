@@ -17,18 +17,15 @@
 <resources>
 
     <!-- Color for the "No recent apps" text in the recent apps list. -->
-    <color name="no_recent_apps">#f7f7f7</color>
+    <color name="no_recent_apps">#f5f5f5</color>
 
     <color name="navring_check_tint">@android:color/white</color>
     <color name="navring_edit_fill">#FF558B2F</color>
     <color name="navring_edit_tint">#FF689F38</color>
 
     <!-- tint of the Visualizer tile -->
-    <color name="visualizer_fill_color">#96FAFAFA</color>
-
-    <!-- Background of the volume panel. See also: volume_dialog_background -->
-    <color name="volume_panel_background_color">@color/system_secondary_color</color>
-
+    <color name="visualizer_fill_color">#96FFFFFF</color>
+    
     <!-- Battery base color -->
     <color name="batterymeter_base_color">#FFFFFFFF</color>
 
@@ -36,5 +33,5 @@
     <color name="notification_icon_color">#FFFFFFFF</color>
 
     <!-- Navigation button ripple color -->
-    <color name="navbutton_ripple_color">#FF312048</color>
+    <color name="navbutton_ripple_color">#FF141025</color>
 </resources>
