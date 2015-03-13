@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="@android:style/Widget.Material.Toolbar.Button.Navigation" />
+    
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+    
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
+    
+    <style name="timeline_profile_image_view">
+        <item name="android:fitsSystemWindows">false</item>
+    </style>    
+    
+    <style name="Theme.MinimumReqs" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style>
+    <style name="Theme.FBUi" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style>
+    
+    <style name="Theme.FBUi.Overlay" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style>
+    <style name="HomeActivityBaseTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style>
+    <style name="HomeActivityTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style>
+    <style name="HomeActivityThemeV2" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style> 
+    
+    <style name="Theme.Caspian" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style>       
+        
+</resources>

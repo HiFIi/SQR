@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Thorn" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:actionBarStyle">@style/Thorn.ActionBar</item>
+    </style>
+    <style name="Thorn.ActionBar" parent="@android:style/Widget.Material.ActionBar">
+        <item name="android:background">@color/main_app_color</item>
+    </style>    
+</resources>

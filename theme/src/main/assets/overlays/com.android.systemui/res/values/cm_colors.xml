@@ -33,5 +33,5 @@
     <color name="notification_icon_color">#FFFFFFFF</color>
 
     <!-- Navigation button ripple color -->
-    <color name="navbutton_ripple_color">#FF141025</color>
+    <color name="navbutton_ripple_color">#FFEDE7F6</color>
 </resources>
