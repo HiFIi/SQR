@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_app_color">#ff272048</color>
+    <color name="main_app_color_dark">#ff141025</color>
+    <color name="blue_9">#ff272048</color>
+    <color name="blue_8">#ff272048</color>
+    <color name="blue_7">#ff272048</color>
+    <color name="blue_6">#ff272048</color>
+    <color name="blue_5">#ff272048</color>
+    <color name="blue_4">#ff272048</color>
+    <color name="blue_3">#ff272048</color>
+    <color name="blue_2">#ff272048</color>
+    <color name="blue_1">#ff272048</color>
+    <color name="accent_blue_9">#ff272048</color>
+    <color name="accent_blue_8">#ff272048</color>
+    <color name="accent_blue_7">#ff272048</color>
+    <color name="accent_blue_6">#ff272048</color>
+    <color name="accent_blue_5">#ff272048</color>
+    <color name="accent_blue_4">#ff272048</color>
+    <color name="accent_blue_3">#ff272048</color>
+    <color name="accent_blue_2">#ff272048</color>
+    <color name="accent_blue_1">#ff272048</color>
+    <color name="blue_dark">@color/blue_7</color>
+    <color name="blue_medium">@color/blue_5</color>
+    <color name="blue_light">@color/blue_3</color>
+    <color name="accent_blue_dark">@color/accent_blue_7</color>
+    <color name="accent_blue_medium">@color/accent_blue_5</color>
+    <color name="accent_blue_light">@color/accent_blue_3</color>
+    <color name="action_bar_top_highlight">#ff272048</color>
+    <color name="dark_action_bar_top_highlight">#ff141025</color>
+    <color name="action_bar_transparent_background">#20000000</color>
+    <color name="action_bar_transparent_background_pressed_state">#30000000</color>
+    <color name="action_bar_semi_transparent_white">#bfffffff</color>
+    <color name="status_bar_blue_background">#ff141025</color>
+</resources>

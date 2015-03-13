@@ -14,20 +14,18 @@
      limitations under the License.
 -->
 
-<resources>
-    <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_300">#ffeeeeee</color>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <color name="item_doc_grid_background">@color/material_grey_300</color>
+    <style name="DialogWhenReallyLarge" parent="@android:style/Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimaryDark">#141025</item>
+        <item name="android:colorPrimary">#272048</item>
+        <item name="android:colorAccent">#272048</item>    
+    </style>    
 
-    <color name="item_doc_grid_protect_background">#88000000</color>
-
-    <color name="item_doc_grid_overlay_activated">#88000000</color>
-    <color name="item_doc_grid_overlay_disabled">#88ffffff</color>
-
-    <color name="item_doc_list_overlay_disabled">#88ffffff</color>
-
-    <!-- 10% alpha of material_deep_teal_500 -->
-    <color name="item_doc_list_background_activated">#1a272048</color>
+    <style name="DocumentsTheme" parent="@style/DialogWhenReallyLarge">
+        <item name="android:colorPrimaryDark">#141025</item>
+        <item name="android:colorPrimary">#272048</item>
+        <item name="android:colorAccent">#272048</item>
+    </style>
 
 </resources>
