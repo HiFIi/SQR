@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ub__trip_drawer_width">320.0dip</dimen>
+    <dimen name="ub__trip_drawer_width_small">320.0dip</dimen>
+</resources>

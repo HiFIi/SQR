@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.Uber" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff141025</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">#ff272048</item>
+        <item name="android:colorPrimaryDark">#ff141025</item>
+        <item name="android:colorAccent">#ff272048</item>
+    </style>
+    <style name="Theme.Uber" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff141025</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">#ff272048</item>
+        <item name="android:colorPrimaryDark">#ff141025</item>
+        <item name="android:colorAccent">#ff272048</item>
+    </style>
+    <style name="Theme.Uber.White" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff141025</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">#ff272048</item>
+        <item name="android:colorPrimaryDark">#ff141025</item>
+        <item name="android:colorAccent">#ff272048</item>
+    </style>
+    <style name="Uber.Widget.ActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:elevation">0dp</item>
+    </style>
+    <style name="Theme.Uber.Toolbar.White" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:elevation">0dp</item>
+    </style>  
+    <style name="Theme.Rider" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff141025</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">#ff272048</item>
+        <item name="android:colorPrimaryDark">#ff141025</item>
+        <item name="android:colorAccent">#ff272048</item>
+    </style>      
+    <style name="Theme.Rider.Launcher" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ff141025</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">#ff272048</item>
+        <item name="android:colorPrimaryDark">#ff141025</item>
+        <item name="android:colorAccent">#ff272048</item>
+    </style>      
+</resources>

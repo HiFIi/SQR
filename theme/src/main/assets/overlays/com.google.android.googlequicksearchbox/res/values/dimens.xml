@@ -9,9 +9,9 @@
     <dimen name="nowspace_context_message_offset">216.0dip</dimen>
     <dimen name="nowspace_context_message_height">120.0dip</dimen>
     <dimen name="nowspace_context_image_height">450.0dip</dimen>
-    <dimen name="nowspace_legacy_context_image_height">450.0dip</dimen>
+    <dimen name="nowspace_legacy_context_image_height">475.0dip</dimen>
     <dimen name="contact_avatar_height">200.0dip</dimen>
-    <dimen name="progress_bar_height">5.0dip</dimen>
-    <dimen name="min_height_background_image">180.0dip</dimen>
+    <dimen name="progress_bar_height">4.0dip</dimen>
+    <dimen name="min_height_background_image">200.0dip</dimen>
     <dimen name="selected_account_height">200.0dip</dimen>
 </resources>

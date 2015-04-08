@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeBase" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+    </style>
+</resources>

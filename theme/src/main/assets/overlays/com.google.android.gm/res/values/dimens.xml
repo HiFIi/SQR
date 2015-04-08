@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="drawer_width">320.0dip</dimen>
+    <dimen name="two_pane_drawer_width_open">320.0dip</dimen>
+    <dimen name="selected_account_height">180.0dip</dimen>  
+    <dimen name="header_height">130.0dip</dimen>  
+</resources>

@@ -5,7 +5,7 @@
     <color name="contextual_action_bar_background_color">#ffffffff</color>
     <color name="archived_conversation_action_bar_background_color">#ff9d9d9d</color>
     <color name="archived_conversation_action_bar_background_color_dark">#ff838383</color>
-    <color name="conversation_background">#fffafafa</color>
+    <color name="conversation_background">#ffe2e2e2</color>
     <color name="fab_color">#ff272048</color>
     <color name="fab_pressed_color">#ff1d1836</color>
     <color name="fab_ripple">#400a0813</color>    

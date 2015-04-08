@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_app_color">#ff272048</color>
+    <color name="main_app_color_dark">#ff141025</color>
+    <color name="twitter_blue">#ff272048</color>
+    <color name="dark_blue">#ff141025</color>
+    <color name="faint_transparent_blue">#16272048</color>
+    <color name="hsr_blue">#ff272048</color>
+    <color name="faded_blue">#ff272048</color>
+    <color name="deep_blue">#ff272048</color>
+
+</resources>
