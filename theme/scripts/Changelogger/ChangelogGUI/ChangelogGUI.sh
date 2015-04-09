@@ -5,7 +5,7 @@
 
 # Variables (in case I need 'em)
 TodaysDate=$(date +"%m-%d-%Y")
-ChangelogFile=Changelogs/$date/ROM-Changelog-$date.txt
+ChangelogFile=Changelogs/$date/SQR-Changelog-$date.txt
 Changelogger=repo forall -pc git log --reverse --no-merges --since=$NumberOf.days.ago > $ChangelogFile
 
 # Functions, yay!
