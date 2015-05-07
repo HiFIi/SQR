@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2013 The Android Open Source Project
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2013 The Android Open Source Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
      you may not use this file except in compliance with the License.
@@ -16,16 +15,16 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="DialogWhenReallyLarge" parent="@android:style/Theme.Material.Light.DarkActionBar" >
-        <item name="android:colorPrimaryDark">#141025</item>
-        <item name="android:colorPrimary">#272048</item>
-        <item name="android:colorAccent">#272048</item>    
-    </style>    
+    <style name="DialogWhenReallyLarge" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimaryDark">#1d1f21</item>
+        <item name="android:colorPrimary">#2f3236</item>
+        <item name="android:colorAccent">#2f3236</item>
+    </style>
 
     <style name="DocumentsTheme" parent="@style/DialogWhenReallyLarge">
-        <item name="android:colorPrimaryDark">#141025</item>
-        <item name="android:colorPrimary">#272048</item>
-        <item name="android:colorAccent">#272048</item>
+        <item name="android:colorPrimaryDark">#1d1f21</item>
+        <item name="android:colorPrimary">#2f3236</item>
+        <item name="android:colorAccent">#2f3236</item>
     </style>
 
 </resources>

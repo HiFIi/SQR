@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings" >
-	<item name="android:textColor">#ff353535</item>
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:textColor">#ff353535</item>
         <item name="android:textColorPrimary">#ff353535</item>
-	<item name="android:textColorSecondary">#ff707070</item>
-	<item name="android:textColorTertiary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>
         <item name="android:colorPrimary">#ff242048</item>
         <item name="android:colorPrimaryDark">#ff141025</item>
         <item name="android:colorAccent">#ff242048</item>
         <item name="android:navigationBarColor">#141517</item>
-	</style>
-	
+    </style>
+
     <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
-	<item name="android:background">#ff242048</item>
+        <item name="android:background">#ff242048</item>
     </style>
 
 </resources>

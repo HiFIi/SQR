@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_button_margin">16.0dip</dimen>
+    <dimen name="action_bar_button_size">36.0dip</dimen>
+    <dimen name="action_bar_height">56.0dip</dimen>
+    <dimen name="action_bar_with_status_bar_height">73.0dip</dimen>
+</resources>

@@ -11,9 +11,9 @@
         <item name="android:colorPrimary">#272048</item>
         <item name="android:colorPrimaryDark">#141025</item>
         <item name="android:colorAccent">#272048</item>
-        <item name="android:navigationBarColor">@android:color/black</item>        
+        <item name="android:navigationBarColor">@android:color/black</item>
     </style>
-    
+
     <style name="AppThemeLight" parent="@style/AppBaseThemeLight">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">#ff141025</item>

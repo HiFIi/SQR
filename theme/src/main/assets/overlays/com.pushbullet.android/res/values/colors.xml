@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="app_accent">#ff272048</color>
-    <color name="app_primary">#ff272048</color>
-    <color name="app_primary_dark">#ff141025</color>
+    <color name="app_accent">#ff14784a</color>
+    <color name="app_primary">#ff19975d</color>
+    <color name="app_primary_dark">#ff14784a</color>
     <color name="background_floating_material_dark">#ff424242</color>
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
-    <color name="bg_actionbar">#ff272048</color>
+    <color name="bg_actionbar">#ff14784a</color>
 </resources>

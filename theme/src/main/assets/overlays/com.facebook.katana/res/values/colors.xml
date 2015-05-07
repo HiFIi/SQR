@@ -3,20 +3,5 @@
 
     <color name="main_app_color">#ff3b5998</color>
     <color name="main_app_color_dark">#ff2f4779</color>
-    <color name="fbui_facebook_blue">#ff3b5998</color>
-    <color name="fbui_accent_blue">#ff2f4779</color>
-    <color name="fbui_red">#FFF44336</color>
-    <color name="fbui_green">#ff46a800</color>
-    <color name="fbui_white">#ffffffff</color>
-    <color name="fbui_black">#ff000000</color>
-    <color name="fbui_light_blue">#ffafc6f0</color>
-    <color name="fbui_facebook_blue_f0">#f03b5998</color>
-    <color name="fb_blue">#ff3b5998</color>
-    <color name="rap_dark_blue">#ff3b5998</color>
-    <color name="light_orca_blue">#ffa0b8cc</color>
-    <color name="medium_orca_blue">#ff416d92</color>
-    <color name="dark_orca_blue">#ff023c6e</color>
-    
-    <color name="red">#FFF44336</color>
-    
+
 </resources>

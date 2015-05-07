@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.EmeraldSea" parent="@android:style/Theme.Material.Light">
+        <item name="android:navigationBarColor">#FF202020</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">#ff7DBA84</item>
+        <item name="android:colorPrimaryDark">#FF649469</item>
+        <item name="android:colorAccent">#ff7DBA84</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>        
+    </style>
+</resources>

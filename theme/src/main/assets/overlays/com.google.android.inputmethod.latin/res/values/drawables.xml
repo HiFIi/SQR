@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <item type="drawable" name="keyboard_suggest_strip_lxx_dark">#ff272048</item>
-    <item type="drawable" name="keyboard_suggest_strip_lxx_light">#fff7f7f7</item>
-    <item type="drawable" name="keyboard_background_lxx_dark">#ff141517</item>
-    <item type="drawable" name="keyboard_background_lxx_light">#fff7f7f7</item>
-    <item type="drawable" name="btn_keyboard_key_pressed_on_lxx_light">#00000000</item>
-    <item type="drawable" name="btn_keyboard_key_pressed_on_lxx_dark">#00000000</item>
-    <item type="drawable" name="btn_keyboard_key_pressed_off_lxx_light">#00000000</item>
-    <item type="drawable" name="btn_keyboard_key_pressed_off_lxx_dark">#00000000</item>
-    <item type="drawable" name="btn_keyboard_key_normal_on_lxx_light">#00000000</item>
-    <item type="drawable" name="btn_keyboard_key_normal_on_lxx_dark">#00000000</item>
-    <item type="drawable" name="btn_keyboard_key_normal_off_lxx_light">#00000000</item>
-    <item type="drawable" name="btn_keyboard_key_normal_off_lxx_dark">#00000000</item>
-   
+    <item name="keyboard_suggest_strip_lxx_dark" type="drawable">#ff060606</item>
+    <item name="keyboard_suggest_strip_lxx_light" type="drawable">#ff101010</item>
+    <item name="keyboard_background_lxx_dark" type="drawable">#ff141517</item>
+    <item name="keyboard_background_lxx_light" type="drawable">#ff141517</item>
+    <item name="btn_keyboard_key_pressed_on_lxx_light" type="drawable">#00000000</item>
+    <item name="btn_keyboard_key_pressed_on_lxx_dark" type="drawable">#00000000</item>
+    <item name="btn_keyboard_key_pressed_off_lxx_light" type="drawable">#00000000</item>
+    <item name="btn_keyboard_key_pressed_off_lxx_dark" type="drawable">#00000000</item>
+    <item name="btn_keyboard_key_normal_on_lxx_light" type="drawable">#00000000</item>
+    <item name="btn_keyboard_key_normal_on_lxx_dark" type="drawable">#00000000</item>
+    <item name="btn_keyboard_key_normal_off_lxx_light" type="drawable">#00000000</item>
+    <item name="btn_keyboard_key_normal_off_lxx_dark" type="drawable">#00000000</item>
+
 </resources>

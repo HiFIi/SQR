@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SnapchatTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">false</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+    
+    <style name="Theme.Dialog.Alert" parent="@android:style/Theme.Material.Dialog">
+    
+    </style>
+    
+    <style name="Theme.IAPTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:statusBarColor">@color/main_app_color_dark</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>  
+    
+    <style name="HeaderButton">
+        <item name="android:textColor">@android:color/black</item>
+    </style>  
+    
+    <style name="ShadowText">
+        <item name="android:shadowColor">@android:color/black</item>
+        <item name="android:shadowDx">0.0</item>
+        <item name="android:shadowDy">-1.0</item>
+        <item name="android:shadowRadius">1.0</item>
+    </style>     
+    
+    <style name="TopPanelButton">
+        <item name="android:textColor">@android:color/black</item>
+    </style> 
+    
+    <style name="TopPanelIncludingStatusBarHeight">
+        <item name="android:background">@android:color/black</item>
+    </style>
+    
+    <style name="TopPanelText" parent="@style/ShadowText">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    
+    <style name="TopPanelTitle" parent="@style/ShadowText">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    
+    <style name="WhiteText">
+        <item name="android:textColor">@android:color/white</item>
+    </style>            
+        
+</resources>

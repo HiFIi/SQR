@@ -2,7 +2,7 @@
 
     <color name="theme_accent">#ff141025</color>
     <color name="theme_primary">#ff272048</color>
-    <color name="theme_primary_dark">#ff141025</color>    
+    <color name="theme_primary_dark">#ff141025</color>
     <color name="switchbar_background_color">#ff272048</color>
     <color name="switch_accent_color">#fff6f6fb</color>
     <color name="memory_apps_usage">#ff272048</color>
@@ -10,5 +10,5 @@
     <color name="running_processes_free_ram">#ffe3e3e3</color>
     <color name="running_processes_system_ram">#ff272048</color>
     <color name="dashboard_background_color">#ffe3e3e3</color>
-    
+
 </resources>

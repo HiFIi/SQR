@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="action_bar_height">58.0dip</dimen>
-    <dimen name="action_bar_with_status_bar_height">85.0dip</dimen>
-</resources>

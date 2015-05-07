@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="padded">
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
+    </style>
+    <style name="Theme.DialogWhenLarge" parent="@style/Theme.Material.NoActionBar.Fullscreen" />
+    <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.DeviceDefault.Light.Panel">
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="Theme.Material.NoActionBar.Fullscreen" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@color/wb</item>
+    </style>
+</resources>

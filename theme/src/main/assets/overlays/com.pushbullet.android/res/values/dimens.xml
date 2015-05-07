@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="account_drawer_header_height">180.0dip</dimen>
+    <dimen name="account_drawer_header_height">210.0dip</dimen>
     <dimen name="account_drawer_scrim_top">96.0dip</dimen>
-    <dimen name="actionbar_elevation">1.0dip</dimen>
+    <dimen name="actionbar_elevation">0.0dip</dimen>
     <dimen name="actionbar_size">56.0dip</dimen>
     <dimen name="drawer_elevation">16.0dip</dimen>
-    <dimen name="drawer_item_elevation">10.0dip</dimen>
+    <dimen name="drawer_item_elevation">8.0dip</dimen>
     <dimen name="drawer_width">320.0dip</dimen>
 </resources>

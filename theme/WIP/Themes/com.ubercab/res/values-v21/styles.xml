@@ -1,59 +1,169 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Base.Theme.Uber" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">#ff141025</item>
+
+    <style name="Base.Theme.Uber" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
         <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowContentTransitions">true</item>
         <item name="android:windowAllowEnterTransitionOverlap">true</item>
-        <item name="android:colorPrimary">#ff272048</item>
-        <item name="android:colorPrimaryDark">#ff141025</item>
-        <item name="android:colorAccent">#ff272048</item>
-    </style>
-    <style name="Theme.Uber" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">#ff141025</item>
-        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTranslucentStatus">true</item>
         <item name="android:windowContentTransitions">true</item>
-        <item name="android:windowAllowEnterTransitionOverlap">true</item>
-        <item name="android:colorPrimary">#ff272048</item>
-        <item name="android:colorPrimaryDark">#ff141025</item>
-        <item name="android:colorAccent">#ff272048</item>
+        <item name="android:fitsSystemWindows">true</item>  
     </style>
-    <style name="Theme.Uber.White" parent="@android:style/Theme.Material.Light">
+    
+    <style name="Theme.Uber" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">#ff141025</item>
-        <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowContentTransitions">true</item>
-        <item name="android:windowAllowEnterTransitionOverlap">true</item>
-        <item name="android:colorPrimary">#ff272048</item>
-        <item name="android:colorPrimaryDark">#ff141025</item>
-        <item name="android:colorAccent">#ff272048</item>
-    </style>
-    <style name="Uber.Widget.ActionBar" parent="@android:style/Theme.Material.Light.DarkActionBar">
-        <item name="android:elevation">0dp</item>
-    </style>
-    <style name="Theme.Uber.Toolbar.White" parent="@android:style/Theme.Material.Light.DarkActionBar">
-        <item name="android:elevation">0dp</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item> 
+        <item name="android:fitsSystemWindows">true</item>           
     </style>  
-    <style name="Theme.Rider" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">#ff141025</item>
+    
+    <style name="Base.Theme.Uber.Black" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
         <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowContentTransitions">true</item>
         <item name="android:windowAllowEnterTransitionOverlap">true</item>
-        <item name="android:colorPrimary">#ff272048</item>
-        <item name="android:colorPrimaryDark">#ff141025</item>
-        <item name="android:colorAccent">#ff272048</item>
-    </style>      
-    <style name="Theme.Rider.Launcher" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">#ff141025</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>    
+        <item name="android:fitsSystemWindows">true</item>
+    </style>  
+    
+    <style name="Theme.Rider.Toolbar" parent="@style/Theme.Uber.Toolbar">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
         <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowContentTransitions">true</item>
         <item name="android:windowAllowEnterTransitionOverlap">true</item>
-        <item name="android:colorPrimary">#ff272048</item>
-        <item name="android:colorPrimaryDark">#ff141025</item>
-        <item name="android:colorAccent">#ff272048</item>
-    </style>      
-</resources>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>  
+        <item name="android:fitsSystemWindows">true</item>      
+    </style>
+    
+    <style name="Base.Theme.Uber.Toolbar" parent="@style/Theme.Uber">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>  
+        <item name="android:fitsSystemWindows">true</item>      
+    </style>
+    
+    <style name="Theme.Uber.Toolbar" parent="@style/Base.Theme.Uber.Toolbar">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>   
+        <item name="android:fitsSystemWindows">true</item>     
+    </style>
+    
+    <style name="Theme.Rider.Launcher" parent="@style/Theme.Rider.NoActionBar">
+        <item name="android:windowBackground">@color/ub__uber_black_100</item>
+        <item name="android:background">@color/ub__uber_black_100</item>
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>   
+        <item name="android:fitsSystemWindows">true</item>            
+    </style>
+    
+    <style name="Theme.Rider.NoActionBar" parent="@style/Theme.Rider">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>  
+        <item name="android:fitsSystemWindows">true</item>      
+    </style>
+    
+    <style name="Theme.Rider" parent="@style/Theme.Uber">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item> 
+        <item name="android:fitsSystemWindows">true</item>       
+    </style>
+    
+    <style name="Style.Rider.TextAppearance.NavDrawer" parent="@android:style/TextAppearance.Material">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#FF121212</item>
+    </style> 
+    
+    <style name="Theme.Rider.MapOverlay" parent="@style/Theme.Rider">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item> 
+        <item name="android:fitsSystemWindows">true</item>       
+    </style>
+    
+    <style name="Uber.TextAppearance" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">#FF141517</item>
+    </style>    
+    
+    <style name="Theme.Rider.Transparent" parent="@style/Theme.Rider.NoActionBar">
+        <item name="android:colorPrimary">#FF191D32</item>
+        <item name="android:statusBarColor">#FF191D32</item>
+        <item name="android:colorPrimaryDark">#FF191D32</item>
+        <item name="android:colorAccent">#FF191D32</item>
+        <item name="android:navigationBarColor">#FF191D32</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowContentTransitions">true</item>  
+        <item name="android:fitsSystemWindows">true</item>      
+    </style>                
+            
+</resources>    

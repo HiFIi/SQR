@@ -24,11 +24,11 @@
     <color name="theme_main_tab_text_color_normal">#101010</color>
     <color name="theme_tab_fallback_text_color_activated_dark">#ff333333</color>
     <color name="theme_tab_fallback_text_color_normal_dark">#99333333</color>
-    
+
     <color name="theme_search_color_primary_dark">#ff923440</color>
-    
+
     <color name="theme_main_color_accent">#e6923440</color>
-    
+
     <color name="primary_font">#ff923440</color>
-        
+
 </resources>

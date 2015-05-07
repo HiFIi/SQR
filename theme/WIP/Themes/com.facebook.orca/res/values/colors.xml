@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="main_app_color">#ff272048</color>
-    <color name="main_app_color_dark">#ff141025</color>
-    <color name="light_orca_blue">#ff272048</color>
+    <color name="main_app_color">#ff039BE5</color>
+    <color name="main_app_color_dark">#ff0277BD</color>
+    <color name="light_orca_blue">#ff039BE5</color>
     <color name="medium_orca_blue">#ff1d1836</color>
-    <color name="dark_orca_blue">#ff141025</color>
+    <color name="dark_orca_blue">#ff0277BD</color>
 </resources>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
      Copyright (C) 2014 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -16,6 +15,6 @@
 -->
 <resources>
 
-    <dimen name="status_bar_expanded_header_elevation">2dp</dimen>
+    <dimen name="status_bar_expanded_header_elevation">0dp</dimen>
 
 </resources>

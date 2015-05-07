@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="ub__action_bar_elevation">0.5dip</dimen>
     <dimen name="ub__trip_drawer_width">320.0dip</dimen>
     <dimen name="ub__trip_drawer_width_small">320.0dip</dimen>
+    <dimen name="ub__trip_panel_header_default_height">200.0dip</dimen>
 </resources>

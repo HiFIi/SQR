@@ -15,7 +15,7 @@
             <file>Roboto-BoldItalic.ttf</file>
         </fileset>
     </family>
-    
+
     <family>
         <nameset>
             <name>sans-serif-light</name>
@@ -25,7 +25,7 @@
             <file>Roboto-LightItalic.ttf</file>
         </fileset>
     </family>
-    
+
     <family>
         <nameset>
             <name>sans-serif-thin</name>
@@ -35,8 +35,8 @@
             <file>Roboto-ThinItalic.ttf</file>
         </fileset>
     </family>
-    
-   <family>
+
+    <family>
         <nameset>
             <name>sans-serif-condensed</name>
         </nameset>

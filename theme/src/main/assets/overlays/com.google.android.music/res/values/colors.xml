@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
  * Copyright (C) 2014 The CyanogenMod Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,8 +16,8 @@
 
 <resources>
 
-    <color name="play_music_primary">#ff272048</color>
-    <color name="play_music_primary_disabled">#80141025</color>
-    <color name="play_music_secondary">#ff141025</color>
-	
+    <color name="play_music_primary">#ffffa24e</color>
+    <color name="play_music_primary_disabled">#80ff8314</color>
+    <color name="play_music_secondary">#ffff8314</color>
+
 </resources>

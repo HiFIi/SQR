@@ -7,9 +7,7 @@
     <dimen name="host_max_navigation_bar_width">320.0dip</dimen>
     <dimen name="host_min_notification_bar_width">320.0dip</dimen>
     <dimen name="host_min_notification_bar_margin_left">56.0dip</dimen>
-    <dimen name="profile_avatar_tap_target_size">48.0dip</dimen>
-    <dimen name="profile_avatar_top_margin_cover_photo">-96.0dip</dimen>
-    <dimen name="profile_avatar_top_margin_full_bleed">4.0dip</dimen>
-    <dimen name="profile_avatar_layout_min_cover_photo_height">220.0dip</dimen>    
+    <dimen name="host_shadow_width">0.0dip</dimen>
+    <dimen name="photos_fake_shadow_height">0.0dip</dimen>
 
 </resources>

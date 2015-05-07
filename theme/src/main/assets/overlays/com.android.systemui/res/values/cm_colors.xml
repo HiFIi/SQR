@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
      Copyright (C) 2014 The CyanogenMod Project
 
      Licensed under the Apache License, Version 2.0 (the "License");
@@ -25,7 +24,7 @@
 
     <!-- tint of the Visualizer tile -->
     <color name="visualizer_fill_color">#96FFFFFF</color>
-    
+
     <!-- Battery base color -->
     <color name="batterymeter_base_color">#FFFFFFFF</color>
 

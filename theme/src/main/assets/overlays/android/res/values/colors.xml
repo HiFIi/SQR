@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="system_notification_accent_color">#ff333333</color>
     <color name="battery_saver_mode_color">#00f4511e</color>
     <color name="user_icon_1">#ffffffff</color>
     <color name="material_deep_teal_200">#ff44387d</color>
@@ -8,4 +7,30 @@
     <color name="material_blue_grey_800">#ff1d1836</color>
     <color name="material_blue_grey_900">#ff141025</color>
     <color name="material_blue_grey_950">#ff0A0813</color>
+
+    <color name="background_holo_dark">#ff141517</color>
+    <color name="background_holo_light">#fff7f7f7</color>
+
+    <color name="button_material_dark">#ff656565</color>
+    <color name="background_material_dark">#ff141517</color>
+    <color name="primary_material_dark">#ff181920</color>
+    <color name="primary_dark_material_dark">#ff141517</color>
+    <color name="action_bar_color">#ff303030</color>
+    <color name="status_bar_color">#ff222222</color>
+
+    <color name="notification_icon_bg_color">#ff303030</color>
+
+    <color name="system_notification_accent_color">#ff1098F7</color>
+
+    <color name="colorEdgeEffect">#1a1098F7</color>
+    <color name="ripple_material_dark">#330c79c5</color>
+    <color name="ripple_material_light">#331098F7</color>
+
+    <color name="notification_mtrl_big_picture_bg">#f2383838</color>
+    <color name="notification_big_picture_bg">#f2383838</color>
+    <color name="notification_button_text">#ffffffff</color>
+
+    <color name="dialog_bg_dark">#ff060606</color>
+    <color name="dialog_bg_white">#ffffffff</color>
+
 </resources>

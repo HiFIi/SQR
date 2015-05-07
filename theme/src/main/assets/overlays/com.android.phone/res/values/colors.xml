@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    
+
     <color name="phone_settings_background_color">#fff7f7f7</color>
     <color name="phone_settings_actionbar_text_color">#ffffffff</color>
     <color name="actionbar_background_color_dark">#ff272048</color>

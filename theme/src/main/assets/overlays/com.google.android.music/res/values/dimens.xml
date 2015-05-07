@@ -9,5 +9,5 @@
     <dimen name="play_avatar_drop_shadow_max">1.0dip</dimen>
     <dimen name="play_avatar_noring_outline">0.2dip</dimen>
     <dimen name="play_header_list_banner_height">0.0sp</dimen>
-    
+
 </resources>

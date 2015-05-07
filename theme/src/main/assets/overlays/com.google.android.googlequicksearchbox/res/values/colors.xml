@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
  * Copyright (C) 2014 The CyanogenMod Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -29,5 +28,5 @@
     <color name="link_text">#ff272048</color>
     <color name="activity_background">#fff9f9f9</color>
     <color name="e_five">#ffe5e5e5</color>
-   
+
 </resources>

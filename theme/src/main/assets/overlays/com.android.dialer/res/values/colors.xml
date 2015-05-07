@@ -15,30 +15,30 @@
 -->
 
 <resources>
-    <color name="primary_color">#2f2831</color>
-    <color name="primary_color_dark">#141115</color>
+    <color name="primary_color">#FF4183D7</color>
+    <color name="primary_color_dark">#FF2a6fc7</color>
     <color name="floating_action_button_icon_color">#ffffffff</color>
-    <color name="dialer_theme_color">#2f2831</color>
-    <color name="dialer_theme_color_dark">#141115</color>
-    <color name="dialpad_primary_text_color">#44387d</color>
-    <color name="dialpad_secondary_text_color">#44387d</color>
-    <color name="dialpad_digits_text_color">#44387d</color>
-    <color name="dialtacts_primary_text_color">#44387d</color>
+    <color name="dialer_theme_color">#FF4183D7</color>
+    <color name="dialer_theme_color_dark">#FF2a6fc7</color>
+    <color name="dialpad_primary_text_color">#202020</color>
+    <color name="dialpad_secondary_text_color">#101010</color>
+    <color name="dialpad_digits_text_color">#141517</color>
+    <color name="dialtacts_primary_text_color">#141517</color>
     <color name="call_log_extras_text_color">#101010</color>
-    <color name="text_highlight_color">#272048</color>
-    <color name="tab_ripple_color">#272048</color>
+    <color name="text_highlight_color">#141517</color>
+    <color name="tab_ripple_color">#141517</color>
     <color name="dialer_dialpad_touch_tint">#406080</color>
-    
+
     <!-- White background for dialer -->
-    <color name="background_dialer_white">#141115</color>
+    <color name="background_dialer_white">#fafafa</color>
     <!-- Background color of new dialer activity -->
-    <color name="background_dialer_light">#262728</color>
+    <color name="background_dialer_light">#fafafa</color>
     <!-- Background color for search results and call details -->
-    <color name="background_dialer_results">#141115</color>
+    <color name="background_dialer_results">#fafafa</color>
     <!-- Background color of dialer list items (contacts, call log entries) -->
-    <color name="background_dialer_list_items">#ff44387d</color>
-    <color name="background_dialer_details_list_items">#ff44387d</color>    
-    
-    <color name="searchbox_icon_tint">#404040</color>
-    
+    <color name="background_dialer_list_items">#fffafafa</color>
+    <color name="background_dialer_details_list_items">#ff141517</color>
+
+    <color name="searchbox_icon_tint">#101010</color>
+
 </resources>
