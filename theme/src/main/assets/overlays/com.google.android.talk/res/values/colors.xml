@@ -24,7 +24,7 @@
     <color name="text_tertiary_default_color_dark">#FF7DBA84</color>
     <color name="primary_text_default_material_light">#FF7DBA84</color>
     <color name="background_material_dark">#ff303030</color>
-    <color name="background_material_light">#fffafafa</color>
+    <color name="background_material_light">#fff7f7f7</color>
     <color name="realtimechat_message_text">#ff323232</color>
     <color name="realtimechat_message_timestamp">#c4505050</color>
     <color name="realtimechat_message_text_otr">#ff323232</color>

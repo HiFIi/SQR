@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="shadow">#cc111111</color>
-    <color name="wb">#FF484848</color>
+    <color name="shadow">#cc040404</color>
+    <color name="wb">#FF26282c</color>
     <color name="transparent">#00000000</color>
     <color name="white">#ffffffff</color>
+    <color name="main_app_color">#ff455A64</color>
+    <color name="main_app_color_dark">#ff263238</color>    
 </resources>

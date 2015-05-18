@@ -4,7 +4,7 @@
         <item name="android:colorPrimary">@color/action_bar_background_color</item>
         <item name="android:colorPrimaryDark">@color/action_bar_background_color_dark</item>
         <item name="android:colorAccent">@color/action_bar_background_color</item>
-        <item name="android:statusBarColor">#ff0D47A1</item>
+        <item name="android:statusBarColor">#ff1976D2</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:navigationBarColor">#FF252423</item>
     </style>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="status_bar_multi">#ff232426</color>
-    <color name="play_multi_primary">#ff232426</color>
-    <color name="play_multi_primary_disabled">#ff232426</color>
-    <color name="play_multi_secondary">#ff232426</color>
+    <color name="status_bar_multi">#ff263238</color>
+    <color name="play_multi_primary">#ff263238</color>
+    <color name="play_multi_primary_disabled">#ff263238</color>
+    <color name="play_multi_secondary">#ff263238</color>
+    <color name="play_multi_recents">#ff263238</color>
 
     <color name="play_apps_ent_recents">#ff323232</color>
 

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <style name="TextAppearance" parent="@android:style/TextAppearance.Material" />
+    <style name="TextAppearance.TitleBar" parent="@style/TextAppearance" />
+
     <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation"
         parent="@android:style/Widget.Material.Toolbar.Button.Navigation" />
 
@@ -16,6 +20,10 @@
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:navigationBarColor">#FF141517</item>
         <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#FF141517</item>
+        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>        
     </style>
     <style name="Theme.FBUi" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
@@ -24,6 +32,10 @@
         <item name="android:colorPrimary">@color/main_app_color</item>
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#FF141517</item>
+        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>        
     </style>
 
     <style name="Theme.FBUi.Overlay" parent="@android:style/Theme.Material.Light">
@@ -33,6 +45,10 @@
         <item name="android:colorPrimary">@color/main_app_color</item>
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#FF141517</item>
+        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>        
     </style>
     <style name="HomeActivityBaseTheme" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
@@ -41,6 +57,10 @@
         <item name="android:colorPrimary">@color/main_app_color</item>
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#FF141517</item>
+        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>        
     </style>
     <style name="HomeActivityTheme" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
@@ -49,6 +69,10 @@
         <item name="android:colorPrimary">@color/main_app_color</item>
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#FF141517</item>
+        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>        
     </style>
     <style name="HomeActivityThemeV2" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
@@ -57,6 +81,10 @@
         <item name="android:colorPrimary">@color/main_app_color</item>
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#FF141517</item>
+        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>        
     </style>
 
     <style name="Theme.Caspian" parent="@android:style/Theme.Material.Light">
@@ -66,13 +94,111 @@
         <item name="android:colorPrimary">@color/main_app_color</item>
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#FF141517</item>
+        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff353535</item>
     </style>
     
     <style name="Theme.Dash.Preferences" parent="@android:style/Theme.Material.Dialog.NoActionBar">
     </style>    
     
     <style name="Theme.Dash.Preferences.TextAppearance" parent="@style/Theme.Dash.Preferences">
-        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColor">#FF141517</item>
+    </style> 
+    
+    <style name="TextAppearance.Caspian" parent="@android:style/TextAppearance.Material">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.AllCaps" parent="@style/TextAppearance.Caspian">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Small" parent="@style/TextAppearance.Caspian">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Medium" parent="@style/TextAppearance.Caspian">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Large" parent="@style/TextAppearance.Caspian">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.XLarge" parent="@style/TextAppearance.Caspian">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Title" parent="@style/TextAppearance.Caspian.Large">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Content" parent="@style/TextAppearance.Caspian.Medium">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Meta" parent="@style/TextAppearance.Caspian.Medium">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Cell.Title" parent="@style/TextAppearance.Caspian.Medium">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Cell.Subtitle" parent="@style/TextAppearance.Caspian.Small">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.Cell.Meta" parent="@style/TextAppearance.Caspian.Small">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.CV.Title" parent="@style/TextAppearance.Caspian.Title">
+        <item name="android:ellipsize">end</item>
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.CV.Content" parent="@style/TextAppearance.Caspian.Content">
+        <item name="android:ellipsize">end</item>
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TextAppearance.Caspian.CV.Meta" parent="@style/TextAppearance.Caspian.Meta">
+        <item name="android:ellipsize">end</item>
+        <item name="android:textColor">#FF141517</item>
+    </style> 
+    
+    <style name="NotificationText" parent="@android:style/Widget.Material.TextView">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="NotificationTitle" parent="@android:style/Widget.Material.TextView">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#FF141517</item>
     </style>    
+    
+    <style name="Widget" parent="@android:style/Widget.Material" />
+    <style name="Widget.Card" parent="@style/Widget" />   
+    
+    <style name="Widget.ListView.SubHeader.TextStyle" parent="@android:style/Widget.Material.TextView">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="Widget.ListView.PrimaryItem.TextStyle" parent="@android:style/Widget.Material.TextView">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="Widget.ListView.SecondaryItem.TextStyle" parent="@android:style/Widget.Material.TextView">
+        <item name="android:textColor">#FF141517</item>
+    </style>    
+    
+    
+    <style name="CaspianNotificationText" parent="@style/TextAppearance.Caspian.Medium">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="CaspianNotificationTimestamp">
+<item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="white_text_with_shadow" parent="@android:style/TextAppearance.Material">
+        <item name="android:textColor">#FF141517</item>
+    </style>  
+    
+    <style name="TimelineStandardHeaderTitle" parent="@style/TimelineStandardHeaderThin">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TimelineStandardHeaderSmallTitle" parent="@style/TimelineStandardHeaderTitle">
+        <item name="android:textColor">#FF141517</item>
+    </style>
+    <style name="TimelineStandardHeaderThin" parent="@android:style/TextAppearance.Material">
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textColor">#FF141517</item>
+    </style>
 
 </resources>

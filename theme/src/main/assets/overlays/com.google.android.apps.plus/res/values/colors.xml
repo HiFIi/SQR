@@ -2,21 +2,21 @@
 
 <resources>
 
-    <color name="action_bar_background">#ffC93029</color>
-    <color name="quantum_googred">#ffC93029</color>
-    <color name="status_bar_background">#ffa82822</color>
-    <color name="quantum_googred500">#ffC93029</color>
-    <color name="quantum_googred700">#ffC93029</color>
-    <color name="promo_new_aam_bg_pressed">#ffC93029</color>
-    <color name="cloud_aam_promo_bg">#ffC93029</color>
-    <color name="blue_4">#ffC93029</color>
-    <color name="promo_explore_topics_bg">#ffC93029</color>
-    <color name="riviera_relateds_hashtag_google_stripe_1">#ffC93029</color>
+    <color name="action_bar_background">#ffEF5350</color>
+    <color name="quantum_googred">#ffEF5350</color>
+    <color name="status_bar_background">#ffE53935</color>
+    <color name="quantum_googred500">#ffEF5350</color>
+    <color name="quantum_googred700">#ffEF5350</color>
+    <color name="promo_new_aam_bg_pressed">#ffEF5350</color>
+    <color name="cloud_aam_promo_bg">#ffEF5350</color>
+    <color name="blue_4">#ffEF5350</color>
+    <color name="promo_explore_topics_bg">#ffEF5350</color>
+    <color name="riviera_relateds_hashtag_google_stripe_1">#ffEF5350</color>
     <color name="dark_blue_translucent">#eeff9a84</color>
-    <color name="dark_blue">#ffC93029</color>
-    <color name="darker_blue">#ffC93029</color>
-    <color name="accent_material_light">#ffC93029</color>
-    <color name="accent_material_dark">#ffC93029</color>
+    <color name="dark_blue">#ffEF5350</color>
+    <color name="darker_blue">#ffEF5350</color>
+    <color name="accent_material_light">#ffEF5350</color>
+    <color name="accent_material_dark">#ffEF5350</color>
     <color name="actionbar_gradient_top_color">#00000000</color>
     <color name="actionbar_gradient_text_shadow">#00000000</color>
 
@@ -27,7 +27,6 @@
     <color name="notification_divider">#00000000</color>
     <color name="notification_count_background">#ffffffff</color>
     <color name="notification_more_actors_dots">#ffbbbbbb</color>
-    <color name="no_notifications_view_background">#fff7f7f7</color>
     <color name="error_message_background_color">#fffffcac</color>
 
 </resources>

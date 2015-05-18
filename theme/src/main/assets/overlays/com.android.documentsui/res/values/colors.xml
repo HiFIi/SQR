@@ -14,8 +14,8 @@
 -->
 
 <resources>
-    <color name="material_grey_50">#fffafafa</color>
-    <color name="material_grey_300">#ffeeeeee</color>
+    <color name="material_grey_50">#fff7f7f7</color>
+    <color name="material_grey_300">#ff656565</color>
 
     <color name="item_doc_grid_background">@color/material_grey_300</color>
 
@@ -27,6 +27,6 @@
     <color name="item_doc_list_overlay_disabled">#88ffffff</color>
 
     <!-- 10% alpha of material_deep_teal_500 -->
-    <color name="item_doc_list_background_activated">#1a272048</color>
+    <color name="item_doc_list_background_activated">#1a37474F</color>
 
 </resources>

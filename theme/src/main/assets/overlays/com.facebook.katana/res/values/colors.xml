@@ -7,10 +7,11 @@
     <color name="fbui_accent_blue">#ff2f4779</color>
     <color name="fbui_red">#FFF44336</color>
     <color name="fbui_green">#ff46a800</color>
-    <color name="fbui_white">#ffe5e5e5</color>
     <color name="fbui_black">#ff202020</color>
     <color name="fbui_light_blue">#ffafc6f0</color>
     <color name="fbui_facebook_blue_f0">#f03b5998</color>
+    <color name="fbui_bluegrey_30">#ff303030</color>
+    <color name="fbui_bluegrey_30_40a">#66303030</color>
     <color name="fb_blue">#ff3b5998</color>
     <color name="fb_blue_dark">#ff2f4779</color>
     <color name="rap_dark_blue">#ff3b5998</color>
@@ -18,8 +19,62 @@
     <color name="medium_orca_blue">#ff416d92</color>
     <color name="dark_orca_blue">#ff023c6e</color>
     
+    <color name="fbui_blueblack_10">#ff355089</color>
+    <color name="fbui_bluegrey_90">#ff080a10</color>
+    <color name="fbui_bluegrey_80">#ff141823</color>
+    <color name="fbui_bluegrey_70">#ff232937</color>
+    <color name="fbui_bluegrey_60">#ff373e4d</color>
+    <color name="fbui_bluegrey_50">#ff4e5665</color>
+    <color name="fbui_bluegrey_40">#ff6a7180</color>
+    <color name="fbui_bluegrey_20">#ffbdc1c9</color>
+    <color name="fbui_bluegrey_10">#ffdcdee3</color>
+    <color name="fbui_bluegrey_5">#ffe9eaed</color>
+    <color name="fbui_bluegrey_2">#fff6f7f8</color>
+    <color name="fbui_bluegrey_40_10a">#1a141517</color>
+    <color name="fbui_bluegrey_40_30a">#4d141517</color>
+    <color name="fbui_bluegrey_40_40a">#66141517</color>
+    <color name="fbui_bluegrey_5_60">#99141517</color>
+    <color name="fbui_bluegrey_5_0a">#00141517</color>
+    <color name="fbui_bluegrey_40_f0">#f0141517</color>
+    <color name="fbui_grey_80">#ff141517</color>
+    <color name="fbui_grey_70">#ff4c4c4c</color>
+    <color name="fbui_grey_50">#ff7f7f7f</color>
+    <color name="fbui_grey_40">#ff979797</color>
+    <color name="fbui_grey_30">#ff141517</color>
+    <color name="fbui_accent_blue_50">#80141517</color>
+    <color name="fbui_accent_blue_40">#66181920</color>
+    <color name="fbui_accent_blue_20">#33303030</color>
+    <color name="fbui_accent_blue_10">#1a050505</color>    
+    
     <color name="navbar_color">#ff141517</color>
     <color name="pub_btn_testing">#ff909090</color>
-    <color name="pub_btn__testing">#fff8f8f8</color>    
+    <color name="pub_btn__testing">#fff8f8f8</color>   
+    
+    <color name="fbui_text_inverse_dark">#FF303030</color>
+    <color name="fbui_text_inverse_medium">#FF505050</color>
+    <color name="fbui_text_inverse_light">#FF141517</color>   
+    
+    <color name="pandora_header_date">#ff141517</color>  
+    <color name="date_text_color">#FF141517</color>
+    
+    <color name="feed_store_username_back">#ff5e5e5e</color>
+    <color name="feed_store_lines_back">#ff202020</color>
+    <color name="feed_store_text_back">#ff5e5e5e</color>
+    <color name="feed_store_subtext">#ff777777</color>
+    <color name="feed_store_card_front_subtext_light">#66303030</color>
+    <color name="feed_store_card_front_subtext_dark">#ff202020</color>
+    <color name="feed_feedback_stacked_text_color">#ff141517</color>
+    
+    <color name="feed_story_dark_gray_text_color">#ff404040</color>
+    <color name="feed_story_light_gray_text_color">#ff404040</color>
+    <color name="feed_story_subtitle_text_color">#ff404040</color>    
+    
+    
+    <color name="cardview_dark_background">#ff202020</color>
+    <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="cardview_shadow_end_color">#03000000</color>    
+    
+    <color name="pymk_feed_unit_divider_color">#ff404040</color>
+    <color name="pymk_feed_unit_swipe_footer_divider_color">#ff303030</color>      
 
 </resources>

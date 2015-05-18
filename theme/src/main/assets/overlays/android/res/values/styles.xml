@@ -23,7 +23,7 @@
     </style>
 
     <!-- Notification content styles -->
-    <style name="TextAppearance.StatusBar" parent="@android:style/TextAppearance">
+    <style name="TextAppearance.StatusBar" parent="@android:style/TextAppearance.Material">
         <item name="android:textAppearance">?android:textAppearanceSmall</item>
     </style>
     <style name="TextAppearance.StatusBar.EventContent">
@@ -72,26 +72,23 @@
         <item name="android:textColor">#ff555555</item>
     </style>
 
-
-    <style name="Theme.Material.Light.BaseDialog"
-        parent="@android:style/Theme.Material.Light.Dialog">
+    <style name="Theme.Material.Light.BaseDialog" parent="@android:style/Theme.Material.Light.Dialog">
         <item name="android:colorBackground">@color/dialog_bg_white</item>
-    </style>
+	</style>
 
-    <style name="Theme.Material.BaseDialog" parent="@android:style/Theme.Material.Dialog">
-        <item name="android:colorBackground">@color/dialog_bg_dark</item>
-    </style>
+	<style name="Theme.Material.BaseDialog" parent="@android:style/Theme.Material.Dialog">
+	    <item name="android:colorBackground">@color/dialog_bg_dark</item>
+	</style>
 
-    <style name="Theme.Material.Light.DarkActionBar" parent="@android:style/Theme.Material.Light">
+	<style name="Theme.Material.Light.DarkActionBar" parent="@android:style/Theme.Material.Light">
         <item name="android:actionBarWidgetTheme">@null</item>
         <item name="android:actionBarTheme">@style/ThemeOverlay.Material.Dark.ActionBar</item>
         <item name="android:colorPrimary">@color/action_bar_color</item>
         <item name="android:colorPrimaryDark">@color/status_bar_color</item>
-        <!--    <item name="android:statusBarColor">@color/status_bar_color</item> -->
     </style>
 
-    <style name="ThemeOverlay.Material.Dark.ActionBar"
-        parent="@android:style/ThemeOverlay.Material.Dark"></style>
+	<style name="ThemeOverlay.Material.Dark.ActionBar" parent="@android:style/ThemeOverlay.Material.Dark">
+    </style>
 
     <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@android:style/Theme.Material" />
 
