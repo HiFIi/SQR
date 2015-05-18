@@ -5,7 +5,6 @@
     <color name="contextual_action_bar_background_color">#ffffffff</color>
     <color name="archived_conversation_action_bar_background_color">#ff232323</color>
     <color name="archived_conversation_action_bar_background_color_dark">#ff262626</color>
-    <color name="conversation_background">#ffe2e2e2</color>
     <color name="fab_color">#ff43A047</color>
     <color name="fab_pressed_color">#ff2E7D32</color>
     <color name="fab_ripple">#401B5E20</color>

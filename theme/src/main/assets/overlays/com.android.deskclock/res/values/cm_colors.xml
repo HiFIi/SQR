@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (C) 2015 The CyanogenMod Project
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<resources>
+
+    <!--- Colors modify the background of the clock and change hourly -->
+    <color name="hour_00">#181818</color><!-- Midnight -->
+    <color name="hour_01">#584d7a</color>
+    <color name="hour_02">#544681</color>
+    <color name="hour_03">#513e89</color>
+    <color name="hour_04">#4d3691</color>
+    <color name="hour_05">#193c94</color>
+    <color name="hour_06">#1d45aa</color>
+    <color name="hour_07">#195b94</color>
+    <color name="hour_08">#4370df</color>
+    <color name="hour_09">#547de2</color>
+    <color name="hour_10">#6589e5</color>
+    <color name="hour_11">#7696e8</color>
+    <color name="hour_12">#557ce3</color><!-- Noon -->
+    <color name="hour_13">#55a0e3</color>
+    <color name="hour_14">#5594e3</color>
+    <color name="hour_15">#3e6be6</color>
+    <color name="hour_16">#5557e9</color>
+    <color name="hour_17">#e99d55</color>
+    <color name="hour_18">#e6903e</color>
+    <color name="hour_19">#761cd6</color>
+    <color name="hour_20">#45107d</color>
+    <color name="hour_21">#3c0e6c</color>
+    <color name="hour_22">#280949</color>
+    <color name="hour_23">#0c0315</color>
+
+</resources>

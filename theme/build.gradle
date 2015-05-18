@@ -9,8 +9,8 @@ android {
         minSdkVersion 21
         maxSdkVersion 22
         targetSdkVersion 21
-        versionCode 9
-        versionName "0.0.65"
+        versionCode 12
+        versionName "0.0.8"
 
         // Enable the experimental Jack build tools.
         useJack = true

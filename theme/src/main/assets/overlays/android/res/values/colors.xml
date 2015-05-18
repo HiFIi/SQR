@@ -8,29 +8,29 @@
     <color name="material_blue_grey_900">#ff141025</color>
     <color name="material_blue_grey_950">#ff0A0813</color>
 
-    <color name="background_holo_dark">#ff141517</color>
+    <color name="background_holo_dark">#ff121212</color>
     <color name="background_holo_light">#fff7f7f7</color>
 
     <color name="button_material_dark">#ff656565</color>
-    <color name="background_material_dark">#ff141517</color>
-    <color name="primary_material_dark">#ff181920</color>
-    <color name="primary_dark_material_dark">#ff141517</color>
-    <color name="action_bar_color">#ff303030</color>
-    <color name="status_bar_color">#ff222222</color>
+    <color name="background_material_dark">#ff242424</color>
+    <color name="primary_material_dark">#ff303030</color>
+    <color name="primary_dark_material_dark">#ff181818</color>
+    <color name="action_bar_color">#ff202020</color>
+    <color name="status_bar_color">#ff121212</color>
 
     <color name="notification_icon_bg_color">#ff303030</color>
 
-    <color name="system_notification_accent_color">#ff1098F7</color>
+    <color name="system_notification_accent_color">#ff5C97BF</color>
 
     <color name="colorEdgeEffect">#1a1098F7</color>
-    <color name="ripple_material_dark">#330c79c5</color>
-    <color name="ripple_material_light">#331098F7</color>
+    <color name="ripple_material_dark">#335C97BF</color>
+    <color name="ripple_material_light">#33141517</color>
 
     <color name="notification_mtrl_big_picture_bg">#f2383838</color>
     <color name="notification_big_picture_bg">#f2383838</color>
     <color name="notification_button_text">#ffffffff</color>
 
-    <color name="dialog_bg_dark">#ff060606</color>
+    <color name="dialog_bg_dark">#ff222222</color>
     <color name="dialog_bg_white">#ffffffff</color>
 
 </resources>

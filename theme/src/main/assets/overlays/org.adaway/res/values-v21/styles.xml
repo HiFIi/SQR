@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.adaway" parent="@android:style/Theme.Material.Light.DarkActionBar">
+        <item name="android:colorPrimary">#FFea605d</item>
+        <item name="android:colorPrimaryDark">#FFe53935</item>
+        <item name="android:colorAccent">#FFe53935</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:navigationBarColor">#FF141517</item>  
+    </style>
+</resources>

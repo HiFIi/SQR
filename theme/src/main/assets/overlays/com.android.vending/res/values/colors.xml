@@ -4,7 +4,7 @@
     <color name="play_multi_primary">#ff232426</color>
     <color name="play_multi_primary_disabled">#ff232426</color>
     <color name="play_multi_secondary">#ff232426</color>
-    
+
     <color name="play_apps_ent_recents">#ff323232</color>
 
     <color name="play_movies_light">#ffe26d5c</color>
@@ -41,9 +41,9 @@
     <color name="play_download_arc_background_color_download">#ffbbbbbb</color>
     <color name="play_download_arc_background_color_press">#ff000000</color>
     <color name="play_drawer_profile_overlay_shade">#00000000</color>
-    
+
     <color name="grey">#ff656565</color>
-    
+
     <color name="material_blue_grey_800">#ff303030</color>
     <color name="material_blue_grey_900">#ff323232</color>
     <color name="material_blue_grey_950">#ff333333</color>

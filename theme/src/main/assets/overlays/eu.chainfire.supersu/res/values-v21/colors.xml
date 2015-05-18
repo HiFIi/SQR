@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="material_teal_50">#ff5C97BF</color>
+    <color name="material_teal_100">#ff5287ab</color>
+    <color name="material_teal_200">#ff497898</color>
+    <color name="material_teal_300">#ff406985</color>
+    <color name="material_teal_400">#ff375a72</color>
+    <color name="material_teal_500">#ff2e4b5f</color>
+    <color name="material_teal_600">#ff243c4c</color>
+    <color name="material_teal_700">#ff1b2d39</color>
+    <color name="material_teal_800">#ff121e26</color>
+    <color name="material_teal_900">#ff090f13</color>
+    <color name="material_teal_950">#ff070c0f</color>
+    <color name="material_white">#fffafafa</color>
+    <color name="material_black">#ff141517</color>
+</resources>

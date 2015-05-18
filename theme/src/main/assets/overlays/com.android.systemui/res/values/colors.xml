@@ -38,8 +38,8 @@
     <!-- blue grey 900 -->
     <color name="system_primary_color_translucent">#90101010</color>
     <!-- blue grey 900 -->
-    <color name="system_secondary_color">#ff373737</color>
-    <color name="system_accent_color">#ff373737</color>
+    <color name="system_secondary_color">#ff404040</color>
+    <color name="system_accent_color">#ff141517</color>
     <!-- deep teal 200 -->
     <color name="system_warning_color">#ff080808</color>
     <!-- deep orange 600 -->
@@ -100,7 +100,7 @@
 
     <!-- The color of the material notification background for media notifications when no custom
          color is specified -->
-    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="notification_material_background_media_default_color">#ff202020</color>
 
     <!-- The color of the ripples on the untinted notifications -->
     <color name="notification_ripple_untinted_color">#28000000</color>

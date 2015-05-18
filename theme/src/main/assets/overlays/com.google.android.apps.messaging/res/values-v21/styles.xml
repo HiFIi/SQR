@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="BugleBaseTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <style name="BugleBaseTheme" parent="@android:style/Theme.Material.Light">
         <item name="android:colorPrimary">@color/action_bar_background_color</item>
         <item name="android:colorPrimaryDark">@color/action_bar_background_color_dark</item>
         <item name="android:colorAccent">@color/action_bar_background_color</item>
