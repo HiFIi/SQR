@@ -98,21 +98,7 @@
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
     </style>
-    <style name="Theme.Orca.Neue.Home.ChatHeads" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">@color/main_app_color_dark</item>
-        <item name="android:colorPrimary">@color/main_app_color</item>
-        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
-        <item name="android:colorAccent">@color/main_app_color</item>
-    </style>
     <style name="Theme.Orca.Neue.Preferences" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">@color/main_app_color_dark</item>
-        <item name="android:colorPrimary">@color/main_app_color</item>
-        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
-        <item name="android:colorAccent">@color/main_app_color</item>
-    </style>
-    <style name="Theme.Orca.Neue.ThreadSettings" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@color/main_app_color_dark</item>
         <item name="android:colorPrimary">@color/main_app_color</item>
@@ -224,27 +210,6 @@
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
     </style>
-    <style name="Theme.Orca.StickerStore" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">@color/main_app_color_dark</item>
-        <item name="android:colorPrimary">@color/main_app_color</item>
-        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
-        <item name="android:colorAccent">@color/main_app_color</item>
-    </style>
-    <style name="Theme.Orca.StickerStore.Neue" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">@color/main_app_color_dark</item>
-        <item name="android:colorPrimary">@color/main_app_color</item>
-        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
-        <item name="android:colorAccent">@color/main_app_color</item>
-    </style>
-    <style name="Theme.Orca.EmojiAttachmentsPopup" parent="@android:style/Theme.Material.Light">
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">@color/main_app_color_dark</item>
-        <item name="android:colorPrimary">@color/main_app_color</item>
-        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
-        <item name="android:colorAccent">@color/main_app_color</item>
-    </style> 
     <style name="Theme.Orca.Neue.SingleRecipient" parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@color/main_app_color_dark</item>

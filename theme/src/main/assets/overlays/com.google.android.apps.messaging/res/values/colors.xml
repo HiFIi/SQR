@@ -1,20 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="action_bar_background_color">#ff2196F3</color>
-    <color name="action_bar_background_color_dark">#ff1976D2</color>
-    <color name="contextual_action_bar_background_color">#ffffffff</color>
-    <color name="archived_conversation_action_bar_background_color">#ff404040</color>
-    <color name="archived_conversation_action_bar_background_color_dark">#ff252525</color>
-    <color name="fab_color">#ff43A047</color>
-    <color name="fab_pressed_color">#ff2E7D32</color>
-    <color name="fab_ripple">#401B5E20</color>
+    <color name="material_deep_teal_200">#ff80cbc4</color>
+    <color name="material_deep_teal_500">#ff009688</color>
+    <color name="material_blue_grey_800">#ff37474f</color>
+    <color name="material_blue_grey_900">#ff263238</color>
+    <color name="material_blue_grey_950">#ff21272b</color>
+
+    <color name="fab_color">#ff141517</color>
+    <color name="fab_pressed_color">#ff323232</color>
+    <color name="fab_ripple">#40404040</color>
     <color name="compose_message_send_color">#ff43A047</color>
     <color name="compose_message_send_color_pressed">#ff2E7D32</color>
     <color name="message_bubble_color_outgoing">#ffffffff</color>
     <color name="message_error_bubble_color_incoming">#ffe2e2e2</color>
     <color name="message_audio_button_color_incoming">#ffffffff</color>
-    <color name="message_bubble_color_selected">#ff272048</color>
-    <color name="message_image_selected_tint">#80272048</color>
-    <color name="contact_list_alphabet_header">#ff272048</color>
-    <color name="compose_notification_bar_background">#ff141025</color>
+    <color name="message_bubble_color_selected">#ff2f3233</color>
+    <color name="message_image_selected_tint">#802f3233</color>
+    <color name="contact_list_alphabet_header">#ff2f3233</color>
+    
+    <color name="action_bar_background_color">#ff585a5b</color>
+    <color name="action_bar_background_color_dark">#ff2F3233</color>
+    <color name="contextual_action_bar_background_color">#ff606060</color>
+    <color name="archived_conversation_action_bar_background_color">#ff26282c</color>
+    <color name="archived_conversation_action_bar_background_color_dark">#ff26282c</color>    
+    <color name="chips_dropdown_background_activated">#ff4285f4</color>
+    <color name="chips_dropdown_background_pressed">#ffededed</color>
+    <color name="autocomplete_divider_color">#ffcccccc</color>
+    <color name="chip_background">#fff6f6f6</color>
+    <color name="chip_background_selected">#ff4285f4</color>
+    <color name="chip_background_invalid">#ffdb4437</color>   
+    <color name="compose_notification_bar_background">#ff2f3236</color>
+    <color name="background_material_dark">#ff2f3233</color>
+    <color name="background_material_light">#fff7f7f7</color>
+    <color name="background_floating_material_dark">#ff2f3233</color>
+    <color name="background_floating_material_light">#fff7f7f7</color>
+    <color name="background_item_transparent">@android:color/transparent</color>
+    <color name="background_item_activated">#670099cc</color>
+    <color name="background_item_selected">#cc0099cc</color>
+    <color name="background_item_pressed">#6733b5e5</color>
+    <color name="conversation_background">#fff7f7f7</color>
+    <color name="contact_avatar_default_background">#ffd2d2d2</color>
+    <color name="contact_picker_background">#ffffffff</color>
+    <color name="chips_background_color">#33000000</color>
+    <color name="emoji_category_page_id_view_background">#ff000000</color>
+    <color name="translucent_white">#80ffffff</color>
+    <color name="gallery_image_default_background">#ff2f3236</color>
+    <color name="gallery_image_pressed">#6733b5e5</color>
+    <color name="attachment_preview_more_items_text_background">#44000000</color>
+    <color name="sticker_image_default_background">#ff2f3236</color>  
+    <color name="open_conversation_animation_background_shadow">#40000000</color>  
+    <color name="widget_background_color">#ffffffff</color>
+    <color name="attachment_chooser_audio_background">#ff2f3236</color>
+    <color name="attachment_chooser_vcard_background">#ff2f3236</color>
+	
+    <color name="sqr_conversationlist_background">#fff7f7f7</color> 
+                        
 </resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="font_xsmall">10.0sp</dimen>
+    <dimen name="font_small">12.0sp</dimen>
+    <dimen name="font_medium">14.0sp</dimen>
+    <dimen name="font_large">18.0sp</dimen>
+    <dimen name="font_xlarge">22.0sp</dimen>
+    <dimen name="button_width">48.0dip</dimen>
+    <dimen name="button_corner_radius">2.0dip</dimen>
+    <dimen name="button_border_stroke">1.0dip</dimen>
+    <dimen name="dialog_corner_radius">4.0dip</dimen>
+    <dimen name="row_height">56.0dip</dimen>
+    <dimen name="row_height_small">36.0dip</dimen>
+    <dimen name="row_padding">16.0dip</dimen>
+    <dimen name="row_text_padding">12.0dip</dimen>
+    <dimen name="row_text_button_padding">6.0dip</dimen>
+    <dimen name="menu_separator_height">12.0dip</dimen>
+    <dimen name="view_switcher_shadow_height">7.0dip</dimen>
+    <dimen name="action_bar_height">56.0dip</dimen>
+    <dimen name="action_bar_item_padding">12.0dip</dimen>
+    <dimen name="action_bar_search_padding">16.0dip</dimen>
+    <dimen name="action_bar_title_left_padding">16.0dip</dimen>
+    <dimen name="frameinset">1.0dip</dimen>
+    <dimen name="circular_avatar_stroke_width">1.0px</dimen>
+    <dimen name="avatar_size_ridiculously_large">100.0dip</dimen>
+    <dimen name="avatar_size_extra_large">75.0dip</dimen>
+    <dimen name="avatar_size_large">65.0dip</dimen>
+    <dimen name="avatar_size_small">55.0dip</dimen>
+    <dimen name="avatar_size_xsmall">45.0dip</dimen>
+</resources>

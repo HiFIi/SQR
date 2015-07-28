@@ -14,8 +14,8 @@
 -->
 
 <resources>
-    <color name="material_grey_50">#fff7f7f7</color>
-    <color name="material_grey_300">#ff656565</color>
+    <color name="material_grey_50">#fff2f2f2</color>
+    <color name="material_grey_300">#ff484848</color>
 
     <color name="item_doc_grid_background">@color/material_grey_300</color>
 

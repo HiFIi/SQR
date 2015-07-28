@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.Cat" parent="@android:style/Theme.Material">
+    <style name="Theme.Cat" parent="@android:style/Theme.Material.NoActionBar">
         <item name="android:textCursorDrawable">@null</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@color/spotify_green_dark</item>
@@ -14,7 +14,7 @@
         <item name="android:navigationBarColor">#141517</item>
     </style>
     
-    <style name="Theme.Paste.Base" parent="@android:style/Theme.Material">
+    <style name="Theme.Paste.Base" parent="@android:style/Theme.Material.NoActionBar">
         <item name="android:textCursorDrawable">@null</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@color/spotify_green_dark</item>

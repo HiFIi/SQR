@@ -6,11 +6,10 @@
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:backgroundDimEnabled">true</item>
-        <item name="android:windowTranslucentStatus">false</item>
-        <item name="android:windowTranslucentNavigation">false</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:statusBarColor">#ff232323</item>
-        <item name="android:navigationBarColor">#ff101010</item>
+        <item name="android:statusBarColor">#ff252525</item>
+        <item name="android:navigationBarColor">#ff202020</item>
+		<item name="android:fitsSystemWindows">true</item>
     </style>
         
 </resources>

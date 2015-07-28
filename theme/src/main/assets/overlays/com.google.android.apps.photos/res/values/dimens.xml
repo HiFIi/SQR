@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="account_switcher_cover_height">180.0dip</dimen>
+    <dimen name="account_switcher_avatar_size">56.0dip</dimen>
+    <dimen name="drawer_width">320.0dip</dimen>
+</resources>

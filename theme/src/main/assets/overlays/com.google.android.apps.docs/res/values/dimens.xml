@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="navigation_panel_width">320.0dip</dimen>
-    <dimen name="selected_account_height">180.0dip</dimen>
-</resources>

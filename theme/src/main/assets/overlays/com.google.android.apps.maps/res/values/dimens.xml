@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_divider_padding">18.0dip</dimen>
+    <dimen name="tabbed_header_height">60.0dip</dimen>
+    <dimen name="tabbed_header_tab_height">60.0dip</dimen>
+    <dimen name="profile_listitem_height">160.0dip</dimen>
+    <dimen name="profile_xmicro">160.0dip</dimen>
+    <dimen name="profile_micro">320.0dip</dimen>
+    <dimen name="profile_small">670.0dip</dimen>
+    <dimen name="profile_big">820.0dip</dimen>
+    <dimen name="profile_summary_photo_padding">15.0dip</dimen>
+    <dimen name="paneloption_directionsoptions_height">48.0dip</dimen>
+    <dimen name="omnibox_height">56.0dip</dimen>
+    <dimen name="omnibox_height_for_two_line">72.0dip</dimen>
+    <dimen name="omnibox_height_for_directions">7.0dip</dimen>
+    <dimen name="omnibox_side_padding">10.0dip</dimen>
+    <dimen name="omnibox_text_side_padding">10.0dip</dimen>
+    <dimen name="omnibox_text_limit_padding">20.0dip</dimen>
+    <dimen name="omnibox_margin_tiny">4.0dip</dimen>
+    <dimen name="omnibox_button_medium">24.0dip</dimen>
+    <dimen name="omnibox_button_large">32.0dip</dimen>
+    <dimen name="omnibox_button_divider_width">1.0dip</dimen>
+    <dimen name="omnibox_button_divider_height">24.0dip</dimen>
+    <dimen name="omnibox_shadow_size">2.0dip</dimen>
+    <dimen name="abc_panel_menu_list_width">320.0dip</dimen>
+    <dimen name="layers_max_width">320.0dip</dimen>
+</resources>

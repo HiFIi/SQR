@@ -17,6 +17,11 @@
 <resources>
 
     <!--     </style> -->
+	
+    <style name="Theme.Material" parent="@android:style/Theme.Material">
+        <item name="android:windowBackground">@drawable/shade</item>
+        <item name="android:colorBackground">#141517</item>
+    </style>	
 
     <style name="Theme.Material.Light" parent="@android:style/Theme.Material.Light">
         <item name="android:colorEdgeEffect">@color/colorEdgeEffect</item>
@@ -91,5 +96,9 @@
     </style>
 
     <style name="Theme.DeviceDefault.Light.DarkActionBar" parent="@android:style/Theme.Material" />
+	
+    <style name="Theme.Holo" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@drawable/shade</item>
+    </style>	
 
 </resources>

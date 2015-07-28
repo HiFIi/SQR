@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Photos.Base" parent="@android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@color/app_bar_primary_background</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">@color/app_bar_primary_background</item>
+        <item name="android:colorPrimaryDark">@color/app_bar_primary_background_dark</item>
+        <item name="android:colorAccent">@color/app_bar_primary_background</item>
+    </style>
+    <style name="Theme.Photos" parent="@style/Theme.Photos.Base">
+        <item name="android:statusBarColor">@color/app_bar_primary_background</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap">true</item>
+        <item name="android:colorPrimary">@color/app_bar_primary_background</item>
+        <item name="android:colorPrimaryDark">@color/app_bar_primary_background_dark</item>
+        <item name="android:colorAccent">@color/app_bar_primary_background</item>
+    </style>
+    <style name="Widget.Photos.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@color/app_bar_primary_background</item>
+    </style>
+    <style name="Theme.Arkham.White.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@color/app_bar_primary_background</item>
+    </style>	
+	
+    <style name="Theme.Ingest.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar">
+        <item name="android:background">@color/app_bar_primary_background</item>
+    </style>	
+	
+</resources>

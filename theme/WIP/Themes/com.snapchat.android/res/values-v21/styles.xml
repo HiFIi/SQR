@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="SnapchatTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
-        <item name="android:windowContentOverlay">@null</item>
-        <item name="android:windowAllowEnterTransitionOverlap">true</item>
-        <item name="android:colorPrimary">#FFF5D76E</item>
-        <item name="android:colorPrimaryDark">#FFF2CA3E</item>
-        <item name="android:colorAccent">#FFF5D76E</item>
-        <item name="android:navigationBarColor">#131312</item>
-        <item name="android:statusBarColor">#FFF5D76E</item>
-        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:windowTranslucentStatus">true</item>
-        <item name="android:windowContentTransitions">true</item>
     </style>
-    
-    <style name="SpinnerLightCustom" parent="@android:style/Widget.Material.Light.Spinner">
-    
+    <style name="Theme.Dialog.Alert" parent="@android:style/Theme.Material.Dialog">
+    </style>
+    <style name="Theme.IAPTheme" parent="@android:style/Theme.Material.Light">
+    </style>
+    <style name="settings_item_name_linear" parent="@android:style/TextAppearance.Material.Medium">
+    </style>
+    <style name="settings_item_subtext" parent="@android:style/TextAppearance.Material.Small">
+    </style>
+    <style name="settings_item_text" parent="@android:style/TextAppearance.Material.Small">
+    </style>
+    <style name="spinner_text_appearance_spinner_item" parent="@android:style/TextAppearance.Material.Widget.TextView.SpinnerItem">
+    </style>
+    <style name="white_spinner" parent="@android:style/Widget.Material.TextView.SpinnerItem">
     </style>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Base.Theme.Uber" parent="@android:style/Theme.Material">
+    <style name="Base.Theme.Uber" parent="@android:style/Theme.Material.Light">
         <item name="android:colorPrimary">#FF191D32</item>
         <item name="android:statusBarColor">#FF191D32</item>
         <item name="android:colorPrimaryDark">#FF191D32</item>
@@ -15,7 +15,7 @@
         <item name="android:fitsSystemWindows">true</item>  
     </style>
     
-    <style name="Theme.Uber" parent="@android:style/Theme.Material">
+    <style name="Theme.Uber" parent="@android:style/Theme.Material.Light">
         <item name="android:colorPrimary">#FF191D32</item>
         <item name="android:statusBarColor">#FF191D32</item>
         <item name="android:colorPrimaryDark">#FF191D32</item>

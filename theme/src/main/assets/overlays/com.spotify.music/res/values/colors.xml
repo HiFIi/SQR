@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="bg_actionbar">#272048</color>
+    <color name="bg_actionbar">#202020</color>
     <color name="spotify_green">#ff2E7D32</color>
     <color name="spotify_green_dark">#ff1B5E20</color>
     <color name="cat_dark_green">#ff1B5E20</color>
     <color name="cat_dark_green_40">#ff1B5E20</color>
     <color name="grayish">#ff141517</color>
+	<color name="dark_grey">#ff434343</color>
+	
+    <color name="cat_black">#ff303030</color>
+    <color name="cat_black_20">#33303030</color>
+    <color name="cat_black_40">#66303030</color>
+    <color name="cat_black_60">#99303030</color>
+    <color name="cat_black_87">#e0303030</color>
+	
 </resources>

@@ -34,12 +34,12 @@
     <color name="batterymeter_charge_color">#FFFFFFFF</color>
     <color name="batterymeter_bolt_color">#FFFFFFFF</color>
     <color name="qs_batterymeter_frame_color">#FF404040</color>
-    <color name="system_primary_color">#ff141517</color>
+    <color name="system_primary_color">#ff658595</color>
     <!-- blue grey 900 -->
-    <color name="system_primary_color_translucent">#90101010</color>
+    <color name="system_primary_color_translucent">#90141517</color>
     <!-- blue grey 900 -->
-    <color name="system_secondary_color">#ff404040</color>
-    <color name="system_accent_color">#ff141517</color>
+    <color name="system_secondary_color">#ff131415</color>
+    <color name="system_accent_color">#ff658595</color>
     <!-- deep teal 200 -->
     <color name="system_warning_color">#ff080808</color>
     <!-- deep orange 600 -->
@@ -74,9 +74,9 @@
     <!-- The recents task bar dark text color to be drawn on top of light backgrounds. -->
     <color name="recents_task_bar_dark_text_color">#cc000000</color>
     <!-- The recents task bar light dismiss icon color to be drawn on top of dark backgrounds. -->
-    <color name="recents_task_bar_light_dismiss_color">#ffeeeeee</color>
+    <color name="recents_task_bar_light_dismiss_color">#fff7f7f7</color>
     <!-- The recents task bar dark dismiss icon color to be drawn on top of light backgrounds. -->
-    <color name="recents_task_bar_dark_dismiss_color">#99000000</color>
+    <color name="recents_task_bar_dark_dismiss_color">#99242424</color>
     <!-- The recents task bar highlight color. -->
     <color name="recents_task_bar_highlight_color">#28ffffff</color>
     <!-- The lock to task button background color. -->
@@ -130,7 +130,7 @@
     <color name="doze_small_icon_background_color">#ff434343</color>
 
     <!-- The color of the navigation bar icons. Need to be in sync with ic_sysbar_* -->
-    <color name="navigation_bar_icon_color">#E5FFFFFF</color>
+    <color name="navigation_bar_icon_color">#FFFFFFFF</color>
 
     <!-- Shadow color for the first pixels around the fake shadow for recents. -->
     <color name="fake_shadow_start_color">#44000000</color>

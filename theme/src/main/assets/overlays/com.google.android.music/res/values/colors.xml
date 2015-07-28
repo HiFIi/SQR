@@ -19,5 +19,18 @@
     <color name="play_music_primary">#ffffa24e</color>
     <color name="play_music_primary_disabled">#80ff8314</color>
     <color name="play_music_secondary">#ffff8314</color>
+	<color name="lb_card_info_background_color">#fff9f9f9</color>
+	<color name="play_white">#fff9f9f9</color>
+	<color name="play_header_list_tab_underline_color">#fff9f9f9</color>
+	<color name="play_header_list_banner_text_color">#fff9f9f9</color>
+	<color name="play_onboard__page_indicator_dot_active">#fff9f9f9</color>
+	<color name="lb_browse_header_color">#fff9f9f9</color>
+	<color name="primary_text_default_material_dark">#fff9f9f9</color>
+	<color name="white">#fff9f9f9</color>
+	<color name="appwidget_text">#fff9f9f9</color>
+	<color name="appwidget_text_primary">#fff9f9f9</color>
+	<color name="nus_background">#fff9f9f9</color>
+	<color name="download_only_strip_text_color">#fff9f9f9</color>
+	<color name="black_transparent_20">#33000000</color>
 
 </resources>

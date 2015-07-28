@@ -8,15 +8,15 @@
     <color name="material_blue_grey_900">#ff141025</color>
     <color name="material_blue_grey_950">#ff0A0813</color>
 
-    <color name="background_holo_dark">#ff121212</color>
-    <color name="background_holo_light">#fff7f7f7</color>
+    <color name="background_holo_dark">#ff141517</color>
+    <color name="background_holo_light">#fff9f9f9</color>
 
     <color name="button_material_dark">#ff656565</color>
     <color name="background_material_dark">#ff242424</color>
     <color name="primary_material_dark">#ff141517</color>
-    <color name="primary_material_light">#ffffffff</color>
+    <color name="primary_material_light">#fff9f9f9</color>
     <color name="primary_dark_material_dark">#ff141517</color>
-    <color name="primary_dark_material_light">#ff939290</color>    
+    <color name="primary_dark_material_light">#fff9f9f9</color>    
     <color name="action_bar_color">#ff303030</color>
     <color name="status_bar_color">#ff151515</color>
     

@@ -9,7 +9,7 @@
             <name>verdana</name>
         </nameset>
         <fileset>
-            <file>Roboto-Light.ttf</file>
+            <file>Roboto-Regular.ttf</file>
             <file>Roboto-Bold.ttf</file>
             <file>Roboto-Italic.ttf</file>
             <file>Roboto-BoldItalic.ttf</file>
@@ -21,7 +21,7 @@
             <name>sans-serif-light</name>
         </nameset>
         <fileset>
-            <file>Roboto-Light.ttf</file>
+            <file>Roboto-Regular.ttf</file>
             <file>Roboto-LightItalic.ttf</file>
         </fileset>
     </family>
@@ -31,7 +31,7 @@
             <name>sans-serif-thin</name>
         </nameset>
         <fileset>
-            <file>Roboto-Light.ttf</file>
+            <file>Roboto-Regular.ttf</file>
             <file>Roboto-ThinItalic.ttf</file>
         </fileset>
     </family>
@@ -41,7 +41,7 @@
             <name>sans-serif-condensed</name>
         </nameset>
         <fileset>
-            <file>Roboto-Light.ttf</file>
+            <file>Roboto-Regular.ttf</file>
             <file>RobotoCondensed-Italic.ttf</file>
             <file>RobotoCondensed-Bold.ttf</file>
             <file>RobotoCondensed-BoldItalic.ttf</file>

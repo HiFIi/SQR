@@ -1,0 +1,50 @@
+1.0.0 WIP#3
+-----------
+
+* Brand new Instagram theme (now 100% less ugly)
+* Touched up Hangouts
+* Touched up Google Plus
+* Subtle tweaks to the Soundcloud theme
+* Subtle, yet elegant touches to the Dialer theme
+* Small tweaks to the DocumentsUI theme
+* Fixed dual-SIM stock icon (thanks for pointing it out, xeno slug)
+* Dark Google Messenger theme
+* Added more ROM support (thanks Travis Hall [https://goo.gl/nujYDq])
+
+* Added a Telegram theme (alot of the apps resources are hard-coded, making it difficult to theme)
+
+* Changes to the colors of the SystemUI, requires a reboot
+* Added a Google Maps theme (just some colors and dimension changes... for now)
+
+* Fixed up and tweaked the Google Messenger theme
+  * Tweaked some colors
+  * Little things here and there. Nothing major. :p
+  
+* Fixed up and tweaked the Instagram theme
+  * Falls more in line with Material Design specs
+  * ^^ Fixed up the ActionBar height from 48.0dip ---> 56.0dip
+  * Changed the dock height
+  * Tweaked some colors
+  * Changed avatar sizes
+  * Other stuff
+
+* Added the Android M wallpaper/lockscreen wallpaper
+* Added the newest Roboto font from Android M
+* Added a Google Photos theme
+* Changed some elements of the Play Store theme
+* Added missing Google Play Music drawer icons
+* Change the maxSdk, compileSdk, and targetSdk from 21 to 22
+* Modified the PackageInstaller theme
+* Made Google Messenger Light again
+* Modified the Google Maps theme
+* Further enhanced the PackageInstaller theme
+* Further enhanced the Google Play Music theme
+* Fixed force closes with the Spotify theme
+* Themed Fenix
+* Themed Inbox by Gmail
+* Adjusted some colors of the Maps theme
+* Adjusted various UI colors
+* Brand new Settings theme(!!)
+* Fixed a ton of various SystemUI bugs and inconsistencies
+* Fixed up and rethemed the PackageInstaller app
+* Fixed some bugs with the Google Messenger theme

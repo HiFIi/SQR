@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
-        <item name="android:textColor">#ff353535</item>
-        <item name="android:textColorPrimary">#ff353535</item>
-        <item name="android:textColorSecondary">#ff707070</item>
-        <item name="android:textColorTertiary">#ff353535</item>
-        <item name="android:colorPrimary">#ff242048</item>
-        <item name="android:colorPrimaryDark">#ff141025</item>
-        <item name="android:colorAccent">#ff242048</item>
-        <item name="android:navigationBarColor">#141517</item>
-    </style>
+	<style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorAccent">#f1f1f1</item>
+        <item name="android:colorPrimary">#ff141517</item>
+        <item name="android:colorPrimaryDark">#272727</item>
+        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+		<item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+        <item name="android:textColor">#fff9f9f9</item>
+        <item name="android:textColorPrimary">#fff1f1f1</item>
+        <item name="android:textColorSecondary">#ffe5e5e5</item>
+        <item name="android:textColorTertiary">#fff7f7f7</item>		
+		<item name="android:navigationBarColor">#ff212425</item>
+	</style>
 
-    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
-        <item name="android:background">#ff242048</item>
+	<style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+		<item name="android:background">@drawable/settings_header</item>
+		<item name="android:elevation">2dp</item>
+	</style>
+	
+	<style name="TextAppearance.Small" parent="@android:style/TextAppearance.Material.Small" />
+	<style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Small">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@android:color/white</item>
     </style>
 
 </resources>

@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="main_app_color">#ff8D6E63</color>
-    <color name="main_app_color_dark">#ff6D4C41</color>
-    <color name="blue_9">#ff0288D1</color>
-    <color name="blue_8">#ff0288D1</color>
-    <color name="blue_7">#ff0288D1</color>
-    <color name="blue_6">#ff0288D1</color>
-    <color name="blue_5">#ff0288D1</color>
-    <color name="blue_4">#ff0288D1</color>
-    <color name="blue_3">#ff0288D1</color>
-    <color name="blue_2">#ff0288D1</color>
-    <color name="blue_1">#ff0288D1</color>
+    <color name="main_app_color">#ff333e55</color>
+    <color name="main_app_color_dark">#ff202735</color>
+    <color name="blue_9">#ffa3bad9</color>
+    <color name="blue_8">#ff96b0d3</color>
+    <color name="blue_7">#ff88a6ce</color>
+    <color name="blue_6">#ff7a9bc8</color>
+    <color name="blue_5">#ff333e55</color>
+    <color name="blue_4">#ff5e87bc</color>
+    <color name="blue_3">#ff507cb6</color>
+    <color name="blue_2">#ff4773ac</color>
+    <color name="blue_1">#ff3c6090</color>
+    <color name="grey_9">#ff070808</color>
+    <color name="grey_8">#ff323639</color>
+    <color name="grey_7">#ff323639</color>
+    <color name="grey_6">#ff34373b</color>
+    <color name="grey_5">#ff4b4f54</color>
+    <color name="grey_4">#ff818488</color>
+    <color name="grey_3">#ffa5a7aa</color>
+    <color name="grey_2">#ffc9cbcc</color>
+    <color name="grey_1_5">#ffe6e6e6</color>
+    <color name="grey_1">#ffedeeee</color>
     <color name="accent_blue_9">#ff01579B</color>
     <color name="accent_blue_8">#ff01579B</color>
     <color name="accent_blue_7">#ff01579B</color>
@@ -26,12 +36,13 @@
     <color name="accent_blue_dark">@color/accent_blue_7</color>
     <color name="accent_blue_medium">@color/accent_blue_5</color>
     <color name="accent_blue_light">@color/accent_blue_3</color>
-    <color name="action_bar_top_highlight">#ff8D6E63</color>
-    <color name="dark_action_bar_top_highlight">#ff8D6E63</color>
+    <color name="action_bar_top_highlight">@color/main_app_color</color>
+    <color name="dark_action_bar_top_highlight">@color/main_app_color_dark</color>
     <color name="action_bar_transparent_background">#20000000</color>
     <color name="action_bar_transparent_background_pressed_state">#30000000</color>
     <color name="action_bar_semi_transparent_white">#bfffffff</color>
-    <color name="status_bar_blue_background">#ff6D4C41</color>
+    <color name="status_bar_blue_background">#ff202735</color>
 
-    <color name="navbar_color">#ff121617</color>
+    <color name="navbar_color">#ff292c2f</color>
+    
 </resources>

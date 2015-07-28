@@ -15,4 +15,47 @@
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
     </style>
+    
+    <style name="EditTextStyle" parent="@android:style/Widget.Material.EditText">
+    
+    </style>  
+    
+    <style name="TextViewStyle" parent="@android:style/Widget.Material.TextView"></style>
+    
+    <style name="ActionBarTitle" parent="@android:style/Widget.Material.TextView">
+        <item name="android:paddingLeft">16dp</item>
+    </style>
+    
+    <style name="ActionBarButtonText" parent="@android:style/Widget.Material.TextView">
+        <item name="android:paddingLeft">16dp</item>    
+    </style> 
+    
+    <style name="IgAutoCompleteTextView" parent="@android:style/Widget.Material.AutoCompleteTextView">
+    
+    </style>
+    
+    <style name="IgTextboxStyle" parent="@android:style/Widget.Material.CompoundButton.CheckBox">
+    
+    </style>
+    
+    <style name="TextViewStyle.Survey" parent="@android:style/Widget.Material.TextView">
+    
+    </style>
+    
+    <style name="TextViewStyle.QuestionFooter" parent="@android:style/Widget.Material.TextView">
+    
+    </style>
+    
+    <style name="com_facebook_loginview_default_style" parent="@android:style/Widget.Material.Button">
+    
+    </style>
+    
+    <style name="com_facebook_loginview_silver_style" parent="@android:style/Widget.Material.Button">
+    
+    </style>   
+    
+    <style name="CustomToast.Text" parent="@android:style/Widget.Material.TextView">
+    
+    </style>            
+          
 </resources>

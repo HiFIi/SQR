@@ -2,21 +2,21 @@
 
 <resources>
 
-    <color name="action_bar_background">#ffEF5350</color>
-    <color name="quantum_googred">#ffEF5350</color>
-    <color name="status_bar_background">#ffE53935</color>
-    <color name="quantum_googred500">#ffEF5350</color>
-    <color name="quantum_googred700">#ffEF5350</color>
-    <color name="promo_new_aam_bg_pressed">#ffEF5350</color>
-    <color name="cloud_aam_promo_bg">#ffEF5350</color>
-    <color name="blue_4">#ffEF5350</color>
-    <color name="promo_explore_topics_bg">#ffEF5350</color>
-    <color name="riviera_relateds_hashtag_google_stripe_1">#ffEF5350</color>
+    <color name="action_bar_background">#ff9a3427</color>
+    <color name="quantum_googred">#ff9a3427</color>
+    <color name="status_bar_background">#ff6e251c</color>
+    <color name="quantum_googred500">#ff9a3427</color>
+    <color name="quantum_googred700">#ff9a3427</color>
+    <color name="promo_new_aam_bg_pressed">#ff9a3427</color>
+    <color name="cloud_aam_promo_bg">#ff9a3427</color>
+    <color name="blue_4">#ff9a3427</color>
+    <color name="promo_explore_topics_bg">#ff9a3427</color>
+    <color name="riviera_relateds_hashtag_google_stripe_1">#ff9a3427</color>
     <color name="dark_blue_translucent">#eeff9a84</color>
-    <color name="dark_blue">#ffEF5350</color>
-    <color name="darker_blue">#ffEF5350</color>
-    <color name="accent_material_light">#ffEF5350</color>
-    <color name="accent_material_dark">#ffEF5350</color>
+    <color name="dark_blue">#ff9a3427</color>
+    <color name="darker_blue">#ff9a3427</color>
+    <color name="accent_material_light">#ff9a3427</color>
+    <color name="accent_material_dark">#ff9a3427</color>
     <color name="actionbar_gradient_top_color">#00000000</color>
     <color name="actionbar_gradient_text_shadow">#00000000</color>
 

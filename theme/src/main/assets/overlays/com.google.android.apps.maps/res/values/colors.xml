@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="google_blue">#ff161718</color>
+    <color name="qu_google_blue_500">#ff161718</color>
+    <color name="qu_google_blue_50">#ff161718</color>
+    <color name="qu_google_blue_100">#ff161718</color>
+    <color name="qu_google_blue_200">#ff161718</color>
+    <color name="qu_google_blue_300">#ff161718</color>
+    <color name="qu_google_blue_400">#ff161718</color>
+    <color name="qu_google_blue_600">#ff161718</color>
+    <color name="qu_google_blue_700">#ff151618</color>
+    <color name="qu_google_blue_800">#ff161718</color>
+    <color name="qu_google_blue_900">#ff161718</color>
+    <color name="qu_google_blue_accent_100">#ff161718</color>
+    <color name="qu_google_blue_accent_200">#ff161718</color>
+    <color name="qu_google_blue_accent_400">#ff161718</color>
+    <color name="qu_google_blue_accent_700">#ff151618</color>
+    
+    <color name="qu_light_blue_500">#ff161718</color>
+    <color name="qu_light_blue_50">#ff161718</color>
+    <color name="qu_light_blue_100">#ff161718</color>
+    <color name="qu_light_blue_200">#ff161718</color>
+    <color name="qu_light_blue_300">#ff161718</color>
+    <color name="qu_light_blue_400">#ff161718</color>
+    <color name="qu_light_blue_600">#ff161718</color>
+    <color name="qu_light_blue_700">#ff151618</color>
+    <color name="qu_light_blue_800">#ff161718</color>
+    <color name="qu_light_blue_900">#ff161718</color>
+    <color name="qu_light_blue_accent_100">#ff161718</color>
+    <color name="qu_light_blue_accent_200">#ff161718</color>
+    <color name="qu_light_blue_accent_400">#ff161718</color>
+    <color name="qu_light_blue_accent_700">#ff151618</color>  
+      
+</resources>

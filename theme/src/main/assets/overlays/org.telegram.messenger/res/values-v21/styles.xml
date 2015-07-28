@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TMessages" parent="@android:style/Theme.Material">
+        <item name="android:colorBackground">@color/sqr_telegram_primary_color</item>
+        <item name="android:windowBackground">@color/sqr_telegram_primary_color</item>
+        <item name="android:colorControlActivated">#ff202020</item>
+        <item name="android:colorPrimary">#ff141517</item>
+        <item name="android:colorPrimaryDark">#33141517</item>
+    </style>
+    
+    <style name="Theme.TMessages.ListView" parent="@android:style/Widget.Material.ListView">
+        <item name="android:fadingEdge">none</item>
+        <item name="android:divider">@android:color/transparent</item>
+        <item name="android:dividerHeight">1.0dip</item>
+    </style>
+        
+</resources>

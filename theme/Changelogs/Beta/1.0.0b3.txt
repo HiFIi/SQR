@@ -1,0 +1,23 @@
+1.0.0 (Beta #3)
+---------------
+
+* Added the Android M wallpaper/lockscreen wallpaper
+* Added the newest Roboto font from Android M
+* Added a Google Photos theme
+* Changed some elements of the Play Store theme
+* Added missing Google Play Music drawer icons
+* Change the maxSdk, compileSdk, and targetSdk from 21 to 22
+* Modified the PackageInstaller theme
+* Made Google Messenger Light again
+* Modified the Google Maps theme
+* Further enhanced the PackageInstaller theme
+* Further enhanced the Google Play Music theme
+* Fixed force closes with the Spotify theme
+* Themed Fenix
+* Themed Inbox by Gmail
+* Adjusted some colors of the Maps theme
+* Adjusted various UI colors
+* Brand new Settings theme(!!)
+* Fixed a ton of various SystemUI bugs and inconsistencies
+* Fixed up and rethemed the PackageInstaller app
+* Fixed some bugs with the Google Messenger theme
