@@ -6,12 +6,12 @@
     <color name="cat_dark_green">#ff1B5E20</color>
     <color name="cat_dark_green_40">#ff1B5E20</color>
     <color name="grayish">#ff141517</color>
-	<color name="dark_grey">#ff434343</color>
-	
+    <color name="dark_grey">#ff434343</color>
+
     <color name="cat_black">#ff303030</color>
     <color name="cat_black_20">#33303030</color>
     <color name="cat_black_40">#66303030</color>
     <color name="cat_black_60">#99303030</color>
     <color name="cat_black_87">#e0303030</color>
-	
+
 </resources>

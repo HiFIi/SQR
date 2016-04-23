@@ -16,18 +16,18 @@
     <color name="primary_material_dark">#ff141517</color>
     <color name="primary_material_light">#fff9f9f9</color>
     <color name="primary_dark_material_dark">#ff141517</color>
-    <color name="primary_dark_material_light">#fff9f9f9</color>    
-    <color name="action_bar_color">#ff303030</color>
-    <color name="status_bar_color">#ff151515</color>
-    
+    <color name="primary_dark_material_light">#fff9f9f9</color>
+    <color name="action_bar_color">#ff505050</color>
+    <color name="status_bar_color">#ff303030</color>
+
     <color name="primary_text_default_material_light">#ff5a5a5a</color>
     <color name="secondary_text_default_material_light">#ff8e8e8e</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="secondary_text_default_material_dark">#ffffffff</color>
-    
-    <color name="system_notification_accent_color">#ff2773e7</color>    
 
-    <color name="notification_icon_bg_color">#ff303030</color>
+    <color name="system_notification_accent_color">#ff2773e7</color>
+
+    <color name="notification_icon_bg_color">#ff505050</color>
 
     <color name="colorEdgeEffect">#1a141517</color>
     <color name="ripple_material_dark">#335C97BF</color>

@@ -2,33 +2,33 @@
 <resources>
     <color name="bt_action_bar_background_grey">#ff303030</color>
     <color name="bt_container_blue">#ff252525</color>
-	<color name="blue">#ff171717</color>
-	<color name="blue_focused">#ff040404</color>
-	<color name="darker_blue">#ff101010</color>
-	<color name="chips_dropdown_background_activated">#ff171717</color>
-	<color name="bt_blue_disabled">#80171717</color>
-	<color name="bt_generic_smartmail_cv_action_font_blue">#ff171717</color>
+    <color name="blue">#ff171717</color>
+    <color name="blue_focused">#ff040404</color>
+    <color name="darker_blue">#ff101010</color>
+    <color name="chips_dropdown_background_activated">#ff171717</color>
+    <color name="bt_blue_disabled">#80171717</color>
+    <color name="bt_generic_smartmail_cv_action_font_blue">#ff171717</color>
     <color name="bt_google_blue">#ff171717</color>
-    <color name="bt_gray">#ff404040</color>	
-	<color name="bt_onboarding_screen_reminders_explanation_background_color">#ff171717</color>
-	
+    <color name="bt_gray">#ff404040</color>
+    <color name="bt_onboarding_screen_reminders_explanation_background_color">#ff171717</color>
+
     <color name="bt_pull_to_refresh_1_blue">#ff101010</color>
     <color name="bt_pull_to_refresh_2_red">#ff303030</color>
     <color name="bt_pull_to_refresh_3_yellow">#ff505050</color>
-    <color name="bt_pull_to_refresh_4_green">#ff707070</color>	
-	
+    <color name="bt_pull_to_refresh_4_green">#ff707070</color>
+
     <color name="bt_status_bar_brick">#ff141b61</color>
     <color name="bt_status_bar_default">#ff595959</color>
     <color name="bt_status_bar_done">#ff0b8043</color>
     <color name="bt_status_bar_inbox">#ff3367d6</color>
     <color name="bt_status_bar_snoozed">#ffde9102</color>
     <color name="bt_status_bar_white">#ffb3b3b3</color>
-    <color name="bt_stroke_grey">#ffe0e0e0</color>	
-	<color name="bt_action_bar_background_inbox">#ff141517</color>
-	<color name="bt_actionable_banner_blue">#141517</color>
+    <color name="bt_stroke_grey">#ffe0e0e0</color>
+    <color name="bt_action_bar_background_inbox">#ff141517</color>
+    <color name="bt_actionable_banner_blue">#141517</color>
     <color name="bt_blue">#ff141517</color>
-	<color name="bt_letter_tile_f">#ff141517</color>
-	<color name="bt_empty_list_view_inbox_background_color">#ff141517</color>
-	<color name="bt_drawer_background">#fff9f9f9</color>
-	
+    <color name="bt_letter_tile_f">#ff141517</color>
+    <color name="bt_empty_list_view_inbox_background_color">#ff141517</color>
+    <color name="bt_drawer_background">#fff9f9f9</color>
+
 </resources>

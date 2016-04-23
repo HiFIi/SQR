@@ -1,23 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="padded">
-        <item name="android:paddingStart">8.0dip</item>
-        <item name="android:paddingEnd">8.0dip</item>
+        <item name="android:paddingStart">16.0dip</item>
+        <item name="android:paddingEnd">16.0dip</item>
     </style>
     <style name="Theme.DialogWhenLarge" parent="@style/Theme.Material.NoActionBar.Fullscreen" />
     <style name="Theme.AlertDialogActivity" parent="@android:style/Theme.DeviceDefault.Light.Panel">
         <item name="android:backgroundDimEnabled">true</item>
     </style>
-    <style name="Theme.Material.NoActionBar.Fullscreen" parent="@android:style/Theme.Material.Light">
+    <style name="Theme.Material.NoActionBar.Fullscreen"
+        parent="@android:style/Theme.Material.Light">
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">#FF505050</item>
-        <item name="android:navigationBarColor">#FF161819</item>
+        <item name="android:navigationBarColor">#FF252525</item>
         <item name="android:colorPrimary">@color/main_app_color</item>
         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
         <item name="android:colorAccent">@color/main_app_color</item>
-		<item name="android:textColor">#ff353535</item>
-        <item name="android:textColorPrimary">#ff353535</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
         <item name="android:textColorSecondary">#ff707070</item>
-        <item name="android:textColorTertiary">#ff353535</item>
+        <item name="android:textColorTertiary">#ff909090</item>
     </style>
 </resources>

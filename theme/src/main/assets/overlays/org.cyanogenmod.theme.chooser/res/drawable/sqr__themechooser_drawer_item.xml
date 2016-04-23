@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/sqr__themechooser_primary_dark">
+    <item android:drawable="@color/sqr__themechooser_primary" />
+
+    <ripple android:color="@color/sqr__themechooser_primary">
+        <item android:drawable="@drawable/sqr__themechooser_drawer_item_pressed" />
+    </ripple>
+</ripple>

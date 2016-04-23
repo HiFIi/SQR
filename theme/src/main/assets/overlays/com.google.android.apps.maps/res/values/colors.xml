@@ -15,7 +15,7 @@
     <color name="qu_google_blue_accent_200">#ff161718</color>
     <color name="qu_google_blue_accent_400">#ff161718</color>
     <color name="qu_google_blue_accent_700">#ff151618</color>
-    
+
     <color name="qu_light_blue_500">#ff161718</color>
     <color name="qu_light_blue_50">#ff161718</color>
     <color name="qu_light_blue_100">#ff161718</color>
@@ -29,6 +29,6 @@
     <color name="qu_light_blue_accent_100">#ff161718</color>
     <color name="qu_light_blue_accent_200">#ff161718</color>
     <color name="qu_light_blue_accent_400">#ff161718</color>
-    <color name="qu_light_blue_accent_700">#ff151618</color>  
-      
+    <color name="qu_light_blue_accent_700">#ff151618</color>
+
 </resources>

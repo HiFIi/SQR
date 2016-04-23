@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height">56.0dip</dimen>
+    <dimen name="abc_action_bar_stacked_max_height">56.0dip</dimen>
+    <dimen name="chat_title_bar_height">56.0dip</dimen>
+    <dimen name="neue_tab_margins">16.0dip</dimen>
+    <dimen name="secondary_tab_height">32.0dip</dimen>
+    <dimen name="secondary_tab_page_indicator_height">16.0dip</dimen>
+    <dimen name="secondary_tab_bottom_border">16.0dip</dimen>
+    <dimen name="jewel_avatar_width">64.0dip</dimen>
+    <dimen name="friend_finder_avatar_width">64.0dip</dimen>
+
+</resources>

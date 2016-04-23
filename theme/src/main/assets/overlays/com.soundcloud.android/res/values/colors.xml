@@ -115,11 +115,11 @@
     <color name="playlist_divider">#ffdddddd</color>
     <color name="playlist_tracks">#ffe5e5e5</color>
     <color name="preview_artwork_overlay">#4c000000</color>
-    <color name="primary">#ff141517</color>
-    <color name="primary_dark">#ff141517</color>
-    <color name="primary_dark_material_dark">#ff141517</color>
-    <color name="primary_dark_material_light">#ff141517</color>
-    <color name="primary_material_dark">#ff141517</color>
+    <color name="primary">#ff505050</color>
+    <color name="primary_dark">#ff303030</color>
+    <color name="primary_dark_material_dark">#ff505050</color>
+    <color name="primary_dark_material_light">#ff505050</color>
+    <color name="primary_material_dark">#ff505050</color>
     <color name="primary_material_light">#fff7f7f7</color>
     <color name="primary_text_default_material_dark">#ffffffff</color>
     <color name="primary_text_default_material_light">#de000000</color>
@@ -132,8 +132,8 @@
     <color name="record_upload_border">#ff525252</color>
     <color name="ripple_material_dark">#40ffffff</color>
     <color name="ripple_material_light">#40000000</color>
-    <color name="sc_dark_orange">#ccf19b19</color>
-    <color name="sc_orange">#ffF4B350</color>
+    <color name="sc_dark_orange">#ccE64A19</color>
+    <color name="sc_orange">#ffE64A19</color>
     <color name="search_item_pressed_color">@color/sc_orange</color>
     <color name="search_item_selected_color">@color/white</color>
     <color name="search_item_unselected_color">#ff999999</color>
@@ -161,5 +161,5 @@
     <color name="wave_progress_below">#ffffbf99</color>
     <color name="wave_progress_end">#ffff3300</color>
     <color name="wave_progress_start">#ffff7700</color>
-    <color name="white">#ffffffff</color>
+    <color name="white">#fff7f7f7</color>
 </resources>

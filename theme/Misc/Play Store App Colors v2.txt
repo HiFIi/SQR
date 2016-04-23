@@ -1,0 +1,63 @@
+Newsstand v2
+============
+
+Normal
+------
+#0d1b1e
+
+Dark
+----
+#050b0c
+
+...
+
+
+Google Play Books v2
+====================
+
+Normal
+------
+#5eb1bf
+
+Dark
+----
+#5eb1bf
+
+...
+
+Google Play Music v2
+====================
+
+Normal
+------
+#f18c5c
+
+Dark
+----
+#ed6b2d
+
+...
+
+Google Play Movies v2
+=====================
+
+Normal
+------
+#464f51
+
+Dark
+----
+#2e3436
+
+...
+
+Google Play Apps v2
+===================
+
+Normal
+------
+#204442
+
+Dark
+----
+#102120

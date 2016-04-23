@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget" parent="@android:style/Widget.Material" />
+
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation"
+        parent="@android:style/Widget.Material.Toolbar.Button.Navigation" />
+
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title"
+        parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title" />
+
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle"
+        parent="@android:style/TextAppearance.Material.Widget.ActionBar.Subtitle" />
+
+    <style name="Theme.Facebook" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="Theme.Orca.Neue" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="MePreferencesFooterItemStyle">
+        <item name="android:background">#fafafa</item>
+    </style>
+
+    <style name="OrcaNeueActionBarTitleTextStyle"
+        parent="@style/Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="OrcaNeueActionBar" parent="@android:style/Widget.Material.Toolbar">
+        <item name="android:minHeight">56.0dip</item>
+        <item name="android:titleTextStyle">@style/OrcaNeueActionBarTitleTextStyle</item>
+        <item name="android:backgroundSplit">@android:color/transparent</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <style name="Widget.IconTabbedViewPagerIndicatorChild" parent="@style/Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">56.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">56.0dip</item>
+        <item name="android:elevation">4dp</item>
+    </style>
+
+    <style name="Widget.IconTabbedViewPagerIndicatorChild.Caspian"
+        parent="@style/Widget.IconTabbedViewPagerIndicatorChild">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">16.0dip</item>
+        <item name="android:paddingTop">56.0dip</item>
+        <item name="android:minHeight">56.0dip</item>
+        <item name="android:paddingRight">16.0dip</item>
+        <item name="android:paddingBottom">56.0dip</item>
+    </style>
+
+    <style name="Theme.MinimumReqs" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="Theme.FBUi" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="Theme.FBUi.Overlay" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="HomeActivityBaseTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="HomeActivityTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="HomeActivityThemeV2" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="Theme.Caspian" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="Theme.Orca" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="Theme.Orca.Neue.IntentHandler" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="Theme.Orca.Neue.Start" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="Theme.Orca.Neue.Home" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <!--  <style name="Theme.Orca.Neue.Preferences" parent="@android:style/Theme.Material.Light">
+          <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+          <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+          <item name="android:colorPrimary">@color/main_app_color</item>
+          <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+          <item name="android:colorAccent">@color/main_app_color</item>
+      </style> -->
+    <!--  <style name="Theme.Orca.CreateThread" parent="@android:style/Theme.Material.Light">
+          <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+          <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+          <item name="android:colorPrimary">@color/main_app_color</item>
+          <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+          <item name="android:colorAccent">@color/main_app_color</item>
+      </style>
+      <style name="Theme.Orca.Neue.CreateThread" parent="@android:style/Theme.Material.Light">
+          <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+          <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+          <item name="android:colorPrimary">@color/main_app_color</item>
+          <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+          <item name="android:colorAccent">@color/main_app_color</item>
+      </style>
+      <style name="Theme.Orca.MuteDialog" parent="@android:style/Theme.Material.Light">
+          <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+          <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+          <item name="android:colorPrimary">@color/main_app_color</item>
+          <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+          <item name="android:colorAccent">@color/main_app_color</item>
+      </style> -->
+    <style name="Theme.Orca.Neue.Webrtc" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <!-- <style name="Theme.Orca.OrcaContactPicker" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style>
+     <style name="Theme.Orca.OrcaContactPicker.Neue" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style>
+     <style name="Theme.Orca.Divebar" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style> -->
+    <style name="Theme.Orca.ThreadList.Neue" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="Theme.Orca.DiveHead.ViewPeople" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <!-- <style name="Theme.Orca.Divebar.Neue" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style>
+     <style name="Theme.Orca.Divebar.Neue.DiveHead" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style>
+     <style name="Theme.Orca.ThreadTitle" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style>
+     <style name="Theme.Orca.ThreadTitle.Neue" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style>
+     <style name="Theme.Orca.ThreadView" parent="@android:style/Theme.Material.Light">
+         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+         <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+         <item name="android:colorPrimary">@color/main_app_color</item>
+         <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+         <item name="android:colorAccent">@color/main_app_color</item>
+     </style> -->
+    <style name="Theme.Orca.MessageComposer.Neue.ChatHeads"
+        parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="Theme.Orca.Neue.SingleRecipient" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="Theme.Facebook.Preferences" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+    <style name="Theme.IAPTheme" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/sqr__orca_statusbar_color</item>
+        <item name="android:colorPrimary">@color/main_app_color</item>
+        <item name="android:colorPrimaryDark">@color/main_app_color_dark</item>
+        <item name="android:colorAccent">@color/main_app_color</item>
+        <item name="android:textColor">#ff505050</item>
+        <item name="android:textColorPrimary">#ff505050</item>
+        <item name="android:textColorSecondary">#ff707070</item>
+        <item name="android:textColorTertiary">#ff909090</item>
+        <item name="android:navigationBarColor">#ff242628</item>
+    </style>
+
+    <style name="Widget.ListView.Caspian" parent="@android:style/Widget.Material.ListView">
+        <item name="android:textColor">#FF505050</item>
+    </style>
+
+    <style name="Widget.ListView.SubHeader" parent="@android:style/Widget.Material.ListView">
+        <item name="android:textColor">#FF505050</item>
+    </style>
+
+    <style name="Widget.ListView.SubHeader.TextStyle"
+        parent="@android:style/Widget.Material.TextView">
+        <item name="android:textColor">#FF505050</item>
+    </style>
+
+    <style name="Widget.ListView.PrimaryItem.TextStyle"
+        parent="@android:style/Widget.Material.TextView">
+        <item name="android:textColor">#FF505050</item>
+    </style>
+
+    <style name="Widget.ListView.SecondaryItem.TextStyle"
+        parent="@android:style/Widget.Material.TextView">
+        <item name="android:textColor">#FF505050</item>
+    </style>
+
+    <style name="Widget.Messenger.ListView" parent="@android:style/Widget.Material.ListView">
+        <item name="android:textColor">#FF505050</item>
+    </style>
+
+    <style name="Widget.Messenger.Neue.ListView" parent="@android:style/Widget.Material.ListView">
+        <item name="android:textColor">#FF505050</item>
+    </style>
+
+    <style name="OrcaRegMainTitleText" parent="@android:style/Widget.Material.ListView">
+        <item name="android:textColor">#505050</item>
+    </style>
+
+</resources>

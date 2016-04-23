@@ -15,15 +15,15 @@
 -->
 
 <resources>
-    <color name="primary_color">#FF4183D7</color>
-    <color name="primary_color_dark">#FF235ea8</color>
+    <color name="primary_color">#FF505050</color>
+    <color name="primary_color_dark">#FF303030</color>
     <color name="floating_action_button_icon_color">#ffffffff</color>
-    <color name="dialer_theme_color">#FF4183D7</color>
-    <color name="dialer_theme_color_dark">#FF235ea8</color>
-    <color name="dialpad_primary_text_color">#202020</color>
-    <color name="dialpad_secondary_text_color">#101010</color>
-    <color name="dialpad_digits_text_color">#141517</color>
-    <color name="dialtacts_primary_text_color">#141517</color>
+    <color name="dialer_theme_color">#FF505050</color>
+    <color name="dialer_theme_color_dark">#FF303030</color>
+    <color name="dialpad_primary_text_color">#505050</color>
+    <color name="dialpad_secondary_text_color">#757575</color>
+    <color name="dialpad_digits_text_color">#505050</color>
+    <color name="dialtacts_primary_text_color">#505050</color>
     <color name="call_log_extras_text_color">#101010</color>
     <color name="text_highlight_color">#141517</color>
     <color name="tab_ripple_color">#141517</color>
@@ -39,6 +39,6 @@
     <color name="background_dialer_list_items">#fffafafa</color>
     <color name="background_dialer_details_list_items">#ff141517</color>
 
-    <color name="searchbox_icon_tint">#303030</color>
+    <color name="searchbox_icon_tint">#656565</color>
 
 </resources>

@@ -1,24 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="auto_correct_color_lxx_dark">#ff101010</color>
-    <color name="gesture_trail_color_lxx_dark">#ff787878</color>
+    <color name="auto_correct_color_lxx_dark">#ffe5e5e5</color>
+    <color name="gesture_trail_color_lxx_dark">#ff4285f4</color>
     <color name="dialog_bg">#ff141517</color>
-    <color name="primary_settings">#141517</color>
-    <color name="primary_settings_dark">#141517</color>
-    
-    <color name="auto_correct_color_lxx_light">#ff808080</color>
-    <color name="gesture_trail_color_lxx_light">#ff2196F3</color>
-    
-    <color name="key_text_color_lxx_light">#fffafafa</color>
+    <color name="primary_settings">#505050</color>
+    <color name="primary_settings_dark">#303030</color>
+
+    <color name="auto_correct_color_lxx_light">#ff606060</color>
+    <color name="gesture_trail_color_lxx_light">#cc4285f4</color>
+	
     <color name="key_functional_text_color_lxx_light">#ccfafafa</color>
     <color name="key_text_inactive_color_lxx_light">#b3fafafa</color>
     <color name="key_hint_letter_color_lxx_light">#b3fafafa</color>
     <color name="language_on_spacebar_text_color_lxx_light">#b3fafafa</color>
     <color name="highlight_color_lxx_light">#fffafafa</color>
     <color name="typed_word_color_lxx_light">#d9fafafa</color>
-    <color name="suggested_word_color_lxx_light">#b3fafafa</color> 
-    <color name="key_background_lxx_light">#ff141517</color>
-    <color name="key_background_pressed_lxx_light">#26040404</color>
+    <color name="suggested_word_color_lxx_light">#ccfafafa</color>
+    <color name="key_background_lxx_light">#fff1f1f1</color>
+    <color name="key_background_pressed_lxx_light">#26e5e5e5</color>
+	<color name="key_background_lxx_dark">#ff505050</color>
+    <color name="key_background_pressed_lxx_dark">#26303030</color>
+	<color name="key_text_color_lxx_dark">#ccf9f9f9</color>
+	<color name="key_text_color_lxx_light">#ff505050</color>
 
 </resources>

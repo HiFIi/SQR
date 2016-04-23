@@ -1,27 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
-        <item name="android:colorAccent">#f1f1f1</item>
-        <item name="android:colorPrimary">#ff141517</item>
-        <item name="android:colorPrimaryDark">#272727</item>
-        <item name="android:windowBackground">@drawable/background_holo_dark</item>
-		<item name="android:actionBarStyle">@style/Theme.ActionBar</item>
-        <item name="android:textColor">#fff9f9f9</item>
-        <item name="android:textColorPrimary">#fff1f1f1</item>
-        <item name="android:textColorSecondary">#ffe5e5e5</item>
-        <item name="android:textColorTertiary">#fff7f7f7</item>		
-		<item name="android:navigationBarColor">#ff212425</item>
-	</style>
-
-	<style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
-		<item name="android:background">@drawable/settings_header</item>
-		<item name="android:elevation">2dp</item>
-	</style>
-	
-	<style name="TextAppearance.Small" parent="@android:style/TextAppearance.Material.Small" />
-	<style name="TextAppearance.CategoryTitle" parent="@android:style/TextAppearance.Material.Small">
-        <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@android:color/white</item>
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorAccent">#505050</item>
+        <item name="android:colorPrimary">#ff393837</item>
+        <item name="android:colorPrimaryDark">#ff201f1e</item>
+        <item name="android:navigationBarColor">#ff131212</item>
+		<item name="android:statusBarColor">#ff131212</item>
+        <item name="android:windowBackground">@color/sqr__settings_bg_color</item>
+        <item name="android:textColor">#ffefefef</item>
+        <!--  <item name="android:textColorPrimary">#fff1f1f1</item>
+          <item name="android:textColorSecondary">#ffd5d5d5</item>
+          <item name="android:textColorTertiary">#ffcecece</item>	-->
     </style>
+
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background">#201f1e</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+
+    <style name="TextAppearance.Small" parent="@android:style/TextAppearance.Material.Small" />
+    <style name="TextAppearance.CategoryTitle"
+        parent="@android:style/TextAppearance.Material.Small">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#505050</item>
+    </style>
+	
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.Light.DialogWhenLarge">
+        <item name="android:colorBackground">#fffafafa</item>
+		<item name="android:textColor">#ff505050</item>
+    </style>
+
+    <style name="Theme.SubSettingsDialogWhenLarge" parent="@style/Theme.DialogWhenLarge">
+        <item name="android:colorBackground">#fffafafa</item>
+		<item name="android:textColor">#ff505050</item>
+    </style>
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Light.Dialog.Alert">
+        <item name="android:colorBackground">#fffafafa</item>
+		<item name="android:textColor">#ff505050</item>
+    </style>	
 
 </resources>

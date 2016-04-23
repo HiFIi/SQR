@@ -2,17 +2,29 @@
 <resources>
 
     <style name="DialtactsActionBarStyle" parent="@android:style/Widget.Material.ActionBar.Solid">
-        <item name="android:background">@color/actionbar_background_color_dark</item>
+        <item name="android:background">@drawable/settings_header</item>
+        <item name="android:elevation">0dp</item>
     </style>
     <style name="Theme.Material.Settings"
         parent="@android:style/Theme.Material.Light.DarkActionBar">
-        <item name="android:windowBackground">@color/bg_color</item>
-        <item name="android:actionBarStyle">@style/DialtactsActionBarStyle</item>
-        <item name="android:colorPrimary">#ff272048</item>
-        <item name="android:colorPrimaryDark">#ff272048</item>
+        <item name="android:colorAccent">#f1f1f1</item>
+        <item name="android:colorPrimary">#ff303030</item>
+        <item name="android:colorPrimaryDark">#141517</item>
+        <item name="android:navigationBarColor">#141517</item>
+        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
     </style>
     <style name="NetworkOperatorsSettingsTheme" parent="@android:style/Theme.Material">
-        <item name="android:windowBackground">@color/bg_color</item>
+        <item name="android:colorAccent">#f1f1f1</item>
+        <item name="android:colorPrimary">#ff303030</item>
+        <item name="android:colorPrimaryDark">#141517</item>
+        <item name="android:navigationBarColor">#141517</item>
+        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+    </style>
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/settings_header</item>
+        <item name="android:elevation">0dp</item>
     </style>
 
 </resources>

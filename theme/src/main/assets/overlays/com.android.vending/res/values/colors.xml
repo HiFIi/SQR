@@ -1,36 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="status_bar_multi">#ff263238</color>
-    <color name="play_multi_primary">#ff263238</color>
-    <color name="play_multi_primary_disabled">#ff263238</color>
-    <color name="play_multi_secondary">#ff263238</color>
-    <color name="play_multi_recents">#ff263238</color>
+    <color name="status_bar_multi">#ff505050</color>
+    <color name="play_multi_primary">#ff505050</color>
+    <color name="play_multi_primary_disabled">#ff505050</color>
+    <color name="play_multi_secondary">#ff505050</color>
+    <color name="play_multi_recents">#ff303030</color>
 
-    <color name="play_apps_ent_recents">#ff323232</color>
+    <color name="play_apps_ent_light">#167A9B76</color>
+    <color name="play_apps_ent_primary">#ff7A9B76</color>
+    <color name="play_apps_ent_primary_disabled">#807A9B76</color>
+    <color name="play_apps_ent_recents">#ff61805e</color>
+    <color name="play_apps_ent_secondary">#ff61805e</color>
+    <color name="play_apps_recents">#ff61805e</color>
 
-    <color name="play_movies_light">#ffe26d5c</color>
-    <color name="play_movies_primary">#ffe26d5c</color>
-    <color name="play_movies_primary_disabled">#80e26d5c</color>
-    <color name="play_movies_recents">#ffe26d5c</color>
-    <color name="play_movies_secondary">#ffe26d5c</color>
+    <color name="play_apps_light">#ff7A9B76</color>
+    <color name="play_apps_primary">#ff7A9B76</color>
+    <color name="play_apps_primary_disabled">#807A9B76</color>
+    <color name="play_apps_secondary">#ff61805e</color>
+    <color name="play_banner_dark_fg">#ff61805e</color>
+    <color name="play_banner_light_fg">#fff1f1f1</color>
+
+    <color name="play_books_light">#ff0090c1</color>
+    <color name="play_books_primary">#ff0090c1</color>
+    <color name="play_books_primary_disabled">#800090c1</color>
+    <color name="play_books_recents">#ff00739a</color>
+    <color name="play_books_secondary">#ff00739a</color>
+
+    <color name="play_movies_light">#ffEF5350</color>
+    <color name="play_movies_primary">#ffEF5350</color>
+    <color name="play_movies_primary_disabled">#80EF5350</color>
+    <color name="play_movies_recents">#ffE53935</color>
+    <color name="play_movies_secondary">#ffE53935</color>
 
     <color name="play_music_light">#ffFF5722</color>
     <color name="play_music_primary">#ffFF5722</color>
     <color name="play_music_primary_disabled">#80FF5722</color>
-    <color name="play_music_recents">#ffFF5722</color>
-    <color name="play_music_secondary">#ffFF5722</color>
+    <color name="play_music_recents">#ffE64A19</color>
+    <color name="play_music_secondary">#ffE64A19</color>
 
-    <color name="play_newsstand_light">#ff272048</color>
-    <color name="play_newsstand_primary">#ff272048</color>
-    <color name="play_newsstand_primary_disabled">#80272048</color>
-    <color name="play_newsstand_recents">#ff272048</color>
-    <color name="play_newsstand_secondary">#ff272048</color>
+    <color name="play_newsstand_light">#ff303F9F</color>
+    <color name="play_newsstand_primary">#ff303F9F</color>
+    <color name="play_newsstand_primary_disabled">#80303F9F</color>
+    <color name="play_newsstand_recents">#ff1A237E</color>
+    <color name="play_newsstand_secondary">#ff1A237E</color>
 
-    <color name="status_bar_apps">#ff78b44d</color>
-    <color name="status_bar_books">#ff4e87b6</color>
-    <color name="status_bar_movies">#ffe26d5c</color>
-    <color name="status_bar_music">#ffFF5722</color>
-    <color name="status_bar_newsstand">#ff272048</color>
+    <color name="status_bar_apps">#ff61805e</color>
+    <color name="status_bar_apps_ent">#ff61805e</color>
+    <color name="status_bar_books">#ff00739a</color>
+    <color name="status_bar_movies">#ffE53935</color>
+    <color name="status_bar_music">#ffE64A19</color>
+    <color name="status_bar_newsstand">#ff1A237E</color>
 
     <color name="play_card_light_background">#fffafafa</color>
     <color name="play_card_shadow_end_color">#00000000</color>
@@ -43,12 +62,18 @@
     <color name="play_download_arc_background_color_press">#ff000000</color>
     <color name="play_drawer_profile_overlay_shade">#00000000</color>
 
-    <color name="grey">#ff656565</color>
+    <color name="grey">#ff505050</color>
 
     <color name="material_blue_grey_800">#ff303030</color>
     <color name="material_blue_grey_900">#ff323232</color>
     <color name="material_blue_grey_950">#ff333333</color>
     <color name="material_deep_teal_200">#ff202020</color>
     <color name="material_deep_teal_500">#ff262626</color>
+
+    <color name="play_fg_primary">#ff505050</color>
+    <color name="play_white">#fffafafa</color>
+
+    <color name="play_main_background">#ffe3e3e3</color>
+    <color name="sqr__custom_review_dialog_bg">#ffe5e5e5</color>
 
 </resources>

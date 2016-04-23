@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bright_yellow">#ff303030</color>
+    <color name="bright_yellow_pressed">#ff101010</color>
+    <color name="button_grey">#ff505050</color>
+    <color name="green">#ff232627</color>
+    <color name="primary_red">#ffdb4437</color>
+    <color name="blue">#ff4285f4</color>
+    <color name="chat_sending_failed_color">#ffdb4437</color>
+    <color name="color_selected">#ff606060</color>
+
+    <color name="purple">#ff3F51B5</color>
+    <color name="purple_fifteen_opacity">#263F51B5</color>
+    <color name="purple_ninety_opacity">#e53F51B5</color>
+    <color name="purple_pressed">#ff303F9F</color>
+    <color name="purple_sixty_opacity">#993F51B5</color>
+    <color name="purple_thirty_opacity">#4d3F51B5</color>
+    <color name="quicksnap_overlay_grey">#44000000</color>
+    <color name="red">#ffdb4437</color>
+    <color name="red_fifty_opacity">#80db4437</color>
+    <color name="red_text">#ffdb4437</color>
+    <color name="red_upgrade">#ffdb4437</color>
+
+    <color name="snapcash_green">#ff009688</color>
+    <color name="snapcash_green_cashtag">#ff009688</color>
+    <color name="snapcash_green_secondary">#ff00796B</color>
+    <color name="stories_all_stories_header_text_color">#ff505050</color>
+
+    <color name="white">#fffafafa</color>
+    <color name="white_eighty_opacity">#ccfafafa</color>
+    <color name="white_pressed">#ffededed</color>
+    <color name="white_semi_transparent">#ddfafafa</color>
+    <color name="white_twenty_opacity">#33fafafa</color>
+
+    <color name="dark_yellow">#ff141517</color>
+    <color name="dark_yellow_semi_transparent">#dd141517</color>
+
+</resources>

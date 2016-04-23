@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="ub__status_bar_overlay_color">#33000000</color>
-    
+
     <!-- Uber Black -->
     <color name="ub__uber_black_100">#33000000</color>
     <color name="ub__uber_black_40">#ff9d9da3</color>
@@ -11,7 +11,7 @@
     <color name="ub__uber_black_90_alpha_85">#d8222231</color>
     <color name="ub__uber_black_95">#ff151525</color>
     <color name="ub__uber_black_transparent">#80000000</color>
-    
+
     <!-- Uber Blue -->
     <color name="ub__uber_blue_100">#FFF4F9E9</color>
     <color name="ub__uber_blue_100_semi_transparent">#661fbad6</color>
@@ -20,10 +20,10 @@
     <color name="ub__uber_blue_40">#ffa5e3ef</color>
     <color name="ub__uber_blue_60">#ff79d6e6</color>
     <color name="ub__uber_blue_80">#ff4cc8de</color>
-    <color name="ub__uber_blue_transparent">#661fbad6</color>    
-    
+    <color name="ub__uber_blue_transparent">#661fbad6</color>
+
     <!-- Uber White -->
-    <color name="ub__uber_white_40">#FFF7F7F7</color>  
+    <color name="ub__uber_white_40">#FFF7F7F7</color>
     <color name="ub__uber_white_10">#fff9f9f9</color>
     <color name="ub__uber_white_100">#ffc0c0c8</color>
     <color name="ub__uber_white_120">#ffb2b2ba</color>
@@ -35,16 +35,16 @@
     <color name="ub__vehicle_panel_bg">#fff9f9f9</color>
     <color name="ub__vehicle_panel_divider_line_bg">#ffc2c2c2</color>
     <color name="ub__white">#ffffffff</color>
-    <color name="ub__yellow">#ffffc000</color>       
-    
+    <color name="ub__yellow">#ffffc000</color>
+
     <color name="ub__listview_background">#FF141517</color>
     <color name="ub__listview_background_dark">#FFFAFAFA</color>
-    
+
     <color name="primary_dark_material_dark">#FF383442</color>
     <color name="primary_dark_material_light">#FF303030</color>
     <color name="primary_material_dark">#FF383442</color>
-    <color name="primary_material_light">#FFF7F7F7</color>   
-    
-    <color name="ub__drawer_shadow_gradient_start">#fafafa</color> 
-        
+    <color name="primary_material_light">#FFF7F7F7</color>
+
+    <color name="ub__drawer_shadow_gradient_start">#fafafa</color>
+
 </resources>

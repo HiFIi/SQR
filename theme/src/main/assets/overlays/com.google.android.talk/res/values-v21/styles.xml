@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.EmeraldSea.Settings" parent="@android:style/Theme.Material.Light.DarkActionBar">
+    <style name="Theme.EmeraldSea.Settings"
+        parent="@android:style/Theme.Material.Light.DarkActionBar">
         <item name="android:statusBarColor">#FF141517</item>
         <item name="android:navigationBarColor">#FF232323</item>
     </style>

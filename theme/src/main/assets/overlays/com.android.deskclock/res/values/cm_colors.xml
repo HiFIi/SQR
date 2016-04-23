@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
     Copyright (C) 2015 The CyanogenMod Project
 
     Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,7 +16,8 @@
 <resources>
 
     <!--- Colors modify the background of the clock and change hourly -->
-    <color name="hour_00">#181818</color><!-- Midnight -->
+    <color name="hour_00">#181818</color>
+    <!-- Midnight -->
     <color name="hour_01">#584d7a</color>
     <color name="hour_02">#544681</color>
     <color name="hour_03">#513e89</color>
@@ -29,7 +29,8 @@
     <color name="hour_09">#547de2</color>
     <color name="hour_10">#6589e5</color>
     <color name="hour_11">#7696e8</color>
-    <color name="hour_12">#557ce3</color><!-- Noon -->
+    <color name="hour_12">#557ce3</color>
+    <!-- Noon -->
     <color name="hour_13">#55a0e3</color>
     <color name="hour_14">#5594e3</color>
     <color name="hour_15">#3e6be6</color>

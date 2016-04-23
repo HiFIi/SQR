@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="recurrence_picker_width">320.0dip</dimen>
-	<dimen name="bt_nav_width">320.0dip</dimen>
+    <dimen name="bt_nav_width">320.0dip</dimen>
 </resources>

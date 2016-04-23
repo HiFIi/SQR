@@ -4,6 +4,6 @@
     <color name="wb">#FF141517</color>
     <color name="transparent">#00000000</color>
     <color name="white">#ff505050</color>
-    <color name="main_app_color">#ff141517</color>
-    <color name="main_app_color_dark">#ff303030</color>    
+    <color name="main_app_color">#ff505050</color>
+    <color name="main_app_color_dark">#ff303030</color>
 </resources>

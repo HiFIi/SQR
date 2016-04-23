@@ -5,6 +5,6 @@
         <item name="android:colorPrimaryDark">#FFe53935</item>
         <item name="android:colorAccent">#FFe53935</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:navigationBarColor">#FF141517</item>  
+        <item name="android:navigationBarColor">#FF141517</item>
     </style>
 </resources>

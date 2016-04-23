@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_icon_size">24.0dip</dimen>
+    <dimen name="button_bar_height">56.0dip</dimen>
+    <dimen name="sliding_up_panel_parallax_distance">245.0dip</dimen>
+    <dimen name="item_browse_height">320.0dip</dimen>
+    <dimen name="drawer_item_height">48.0dip</dimen>
+    <dimen name="drawer_item_label_text_size">14.0sp</dimen>
+    <dimen name="icon_padding">8.0dip</dimen>
+    <dimen name="default_circle_indicator_radius">3.0dip</dimen>
+    <dimen name="default_circle_indicator_stroke_width">1.0dip</dimen>
+</resources>

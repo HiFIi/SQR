@@ -26,7 +26,7 @@
     <color name="qp_ripple_dark">#ff272048</color>
     <color name="qp_divider">#00000000</color>
     <color name="link_text">#ff272048</color>
-    <color name="activity_background">#fff9f9f9</color>
-    <color name="e_five">#ffe5e5e5</color>
+    <color name="activity_background">#fff1f1f1</color>
+    <color name="f_a">#fffafafa</color>
 
 </resources>

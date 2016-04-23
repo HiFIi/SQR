@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <color name="primary">#ff272048</color>
-    <color name="primary_dark">#ff141025</color>
-    <color name="accent">#ff272048</color>
-    <color name="drawer_item_default">#ff272048</color>
-    <color name="drawer_item_pressed">#ff141025</color>
+    <color name="primary">#ff505050</color>
+    <color name="primary_dark">#ff303030</color>
+    <color name="accent">#ff363e4e</color>
+    <color name="drawer_item_default">#fffafafa</color>
+    <color name="drawer_item_pressed">@drawable/sqr__themechooser_drawer_item</color>
+    <color name="drawer_item_textcolor">#ff505050</color>
+    <color name="actionbar_text_color">#ff505050</color>
+    <color name="primary_text_color">#ff303030</color>
 
     <color name="apply_button_text_color_enabled">#ff444444</color>
     <color name="apply_button_text_color_disabled">#fff7f7f7</color>
 
-    <color name="apply_button_progress_color">#ff272048</color>
+    <color name="apply_button_progress_color">#40363e4e</color>
     <color name="apply_button_default_color">@android:color/white</color>
-    <color name="apply_button_pressed_color">#ff141025</color>
+    <color name="apply_button_pressed_color">#ffebebeb</color>
 
-    <color name="default_circle_indicator_fill_color">#fff7f7f7</color>
+    <color name="default_circle_indicator_fill_color">#ff505050</color>
     <color name="default_circle_indicator_page_color">#fff4f4f4</color>
     <color name="default_circle_indicator_stroke_color">#fff1f1f1</color>
+
+    <color name="sqr__themechooser_primary">#fff1f1f1</color>
+    <color name="sqr__themechooser_primary_dark">#e6e6e6</color>
 
 </resources>

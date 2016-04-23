@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <style name="AppThemeBase" parent="@android:style/Theme.Material.Light.NoTitleBar" >
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#ffa70c12</item>
+        <item name="android:colorPrimary">#FFcc0f16</item>
+        <item name="android:colorPrimaryDark">#FF4D425B</item>
+        <item name="android:colorAccent">#FFcc0f16</item>
+        <item name="windowActionModeOverlay">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+     </style>
+
+     <style name="DialogThemeBase" parent="@android:style/Theme.Material.Dialog" />
+
+    <style name="TextAppearance.Design.Snackbar.Action" parent="@android:style/TextAppearance.Material">
+    </style>
+
+    <style name="TextAppearance.Design.Snackbar.Message" parent="@android:style/TextAppearance.Material">
+    </style>
+    <style name="Widget.Design.Snackbar" parent="@android:style/Widget.Material">
+    </style>
+    <style name="StartupButtonStyle" parent="@android:style/Widget.Material.Button">
+    </style>
+
+    <style name="AlertDialog" parent="@android:style/Theme.Material.Dialog">
+        <item name="android:textColor">#ff505050</item>
+    </style>
+
+    <style name="RecentlyClosedTabsDialog" parent="@android:style/Theme.Material.Dialog">
+    </style>
+
+</resources>

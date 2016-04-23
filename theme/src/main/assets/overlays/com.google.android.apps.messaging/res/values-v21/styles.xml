@@ -8,11 +8,11 @@
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:navigationBarColor">#FF202225</item>
     </style>
-    
+
     <style name="BugleActionBar" parent="@android:style/Widget.Material.ActionBar">
         <item name="android:elevation">4dp</item>
-    </style>    
-    
+    </style>
+
     <style name="BugleTheme.ConversationListActivity" parent="@android:style/Theme.Material.Light">
         <item name="android:windowBackground">@color/sqr_conversationlist_background</item>
         <item name="android:colorPrimary">@color/action_bar_background_color</item>
@@ -20,7 +20,7 @@
         <item name="android:colorAccent">@color/action_bar_background_color</item>
         <item name="android:statusBarColor">#FF2F3233</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
-        <item name="android:navigationBarColor">#FF202225</item>           
+        <item name="android:navigationBarColor">#FF202225</item>
     </style>
-        
+
 </resources>

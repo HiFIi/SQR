@@ -39,23 +39,28 @@
     <color name="running_processes_system_ram">#ff384248</color>
     <color name="running_processes_apps_ram">#ff78909C</color>
     <color name="running_processes_free_ram">#ffced7db</color>
-    
-    <color name="settings_title_text">#ffffffff</color>
-    <color name="theme_accent">#ff141517</color>
-    <color name="theme_primary">#ff141517</color>
-    <color name="switch_accent_color">#ff404040</color>
-    
-	<color name="background_color_white">#ff565656</color>
-<!-- 	<color name="text_color_black">#ffffffff</color> -->
-	<color name="data_usage_fill_color">#ff35b0b5</color>
-	<color name="cardview_light_background">#ff141517</color>   <!-- notification tiles cards color -->
-	<color name="qs_tile_tint_color">#00ffffff</color>			<!-- notification tiles icons color -->
-	<color name="background_color_gray">#ff222222</color> 		<!-- notification tiles background color -->
-	<color name="light_grey">#ffffffff</color>
-	<color name="white_text">#fff9f9f9</color>
 
-<!--     <color name="dashboard_category_background_color">#ffffffff</color>  settings background color -->
-    <color name="dashboard_background_color">#141517</color>
-	<color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
+    <color name="settings_title_text">#ffffffff</color>
+    <color name="theme_accent">#99252b30</color>
+    <color name="theme_primary">#ff252b30</color>
+    <color name="switch_accent_color">#ff252b30</color>
+
+    <color name="background_color_white">#fffafafa</color>
+    <!-- 	<color name="text_color_black">#ffffffff</color> -->
+    <color name="data_usage_fill_color">#ff35b0b5</color>
+    <color name="cardview_light_background">#ff141517</color>
+    <!-- notification tiles cards color -->
+    <color name="qs_tile_tint_color">#00ffffff</color>
+    <!-- notification tiles icons color -->
+    <color name="background_color_gray">#ff505050</color>
+    <!-- notification tiles background color -->
+    <color name="light_grey">#ffffffff</color>
+    <color name="white_text">#fff9f9f9</color>
+
+    <!--     <color name="dashboard_category_background_color">#ffffffff</color>  settings background color -->
+    <color name="dashboard_background_color">#232221</color>
+    <color name="dashboard_category_background_color">@drawable/dashboard_category_background</color>
+	
+	<color name="sqr__settings_bg_color">#ff474543</color>
 
 </resources>

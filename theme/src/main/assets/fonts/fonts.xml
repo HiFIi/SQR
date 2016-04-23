@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <familyset>
+    
     <family>
         <nameset>
             <name>sans-serif</name>
@@ -21,7 +22,7 @@
             <name>sans-serif-light</name>
         </nameset>
         <fileset>
-            <file>Roboto-Regular.ttf</file>
+            <file>Roboto-Light.ttf</file>
             <file>Roboto-LightItalic.ttf</file>
         </fileset>
     </family>
@@ -31,7 +32,7 @@
             <name>sans-serif-thin</name>
         </nameset>
         <fileset>
-            <file>Roboto-Regular.ttf</file>
+            <file>Roboto-Thin.ttf</file>
             <file>Roboto-ThinItalic.ttf</file>
         </fileset>
     </family>
@@ -41,10 +42,44 @@
             <name>sans-serif-condensed</name>
         </nameset>
         <fileset>
-            <file>Roboto-Regular.ttf</file>
-            <file>RobotoCondensed-Italic.ttf</file>
+            <file>RobotoCondensed-Regular.ttf</file>
             <file>RobotoCondensed-Bold.ttf</file>
+            <file>RobotoCondensed-Italic.ttf</file>
             <file>RobotoCondensed-BoldItalic.ttf</file>
         </fileset>
     </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-medium</name>
+        </nameset>
+        <fileset>
+            <file>Roboto-Medium.ttf</file>
+            <file>Roboto-MediumItalic.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-black</name>
+        </nameset>
+        <fileset>
+            <file>Roboto-Black.ttf</file>
+        </fileset>
+    </family>
+
+    <family>
+        <nameset>
+            <name>sans-serif-condensed-light</name>
+        </nameset>
+        <fileset>
+            <file>Roboto-Regular.ttf</file>
+            <file>Roboto-Regular.ttf</file>
+        </fileset>
+    </family>
+
+    
+    
+
+    
 </familyset>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/main_app_color_darker">
+    <item android:drawable="@color/main_app_color_darker" />
+
+    <ripple android:color="@color/main_app_color_darker">
+        <item android:drawable="@drawable/sqr__orca_tab_pressed" />
+    </ripple>
+</ripple>

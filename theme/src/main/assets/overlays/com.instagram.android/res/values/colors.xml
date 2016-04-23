@@ -43,6 +43,9 @@
     <color name="action_bar_semi_transparent_white">#bfffffff</color>
     <color name="status_bar_blue_background">#ff202735</color>
 
-    <color name="navbar_color">#ff292c2f</color>
-    
+    <!-- OLD (1.0.0b3) -->
+    <!-- <color name="navbar_color">#ff292c2f</color> -->
+
+    <color name="navbar_color">#ff323639</color>
+
 </resources>

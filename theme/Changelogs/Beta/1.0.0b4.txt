@@ -1,0 +1,51 @@
+1.0.0 (Beta #4)
+---------------
+
+Changelog done in a near-sequential order. That's why you may see some repeated mentions of apps.
+
+* Added in a custom alarm I made from scratch
+* Added in a custom notification tone I made from scratch
+* Added in a ringtone I made from scratch
+* Some fancy new Navigation buttons for Back, Home, and Recents. ;) <--- *WIP*
+* Themed/tweaked more of the SystemUI
+* Fixed missing Settings icons
+* Added support for Exodus (ROM)
+* Fixed random header Settings bug
+* Compressed some stuff for less, or no lag. :p
+* Tons of SystemUI changes
+
+* Adjusted various elements of the Youtube app.
+* Rethemed Pushbullet
+* Touched up various sections of the Google Play Store
+  - Icons have replaced the squares
+  - New app colors
+  - Several dimension changes
+  
+* Rethemed Google Plus
+* Rethemed the Dialer
+* Rethemed the Google Keyboard
+* New wallpaper and lockscreen wallpaper
+* Themed Facebook Messenger (sorry in advance for any crashes you may experience. Report them!!!!)
+  - The theme is awesome btw.
+* Themed (some colors of) Snapchat, and also adjusted some dimensions to fit Material Design (WIP)
+* Adjusted the color of Instagrams Navbar
+* Reverted back to the keyboard we had prior, to buy myself more time. :p
+* New wallpaper/lockscreen wallpaper for SQR
+* Re-themed ThemeChooser
+* Re-themed CellBroadcastReceiver (for consistency)
+* Re-themed the Dialer
+* Touched up Youtube (barely)
+* Re-themed the Google Keyboard
+* Tweaked the Soundcloud theme
+* Re-themed SuperSU
+* Re-themed Phone
+* Re-themed Google Play Music (no more square icons, hurray!)
+* Re-themed Hangouts (sort of)
+* Tweaked the Google Plus theme
+* Added in some new animations (SystemUI)
+* Tweaked elements of the Recents panels (SystemUI)
+* Changed colors related to system theming (such as Theme.Material, Theme.Material.Light, etc.) (SystemUI)
+* Added in some basic theming to the SystemUI in numerous areas
+
+** Non-Theme related **
+* Code cleanup

@@ -21,12 +21,13 @@
     <style name="Widget.Photos.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar">
         <item name="android:background">@color/app_bar_primary_background</item>
     </style>
-    <style name="Theme.Arkham.White.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar">
+    <style name="Theme.Arkham.White.ActionBar"
+        parent="@android:style/Widget.Material.Light.ActionBar">
         <item name="android:background">@color/app_bar_primary_background</item>
-    </style>	
-	
+    </style>
+
     <style name="Theme.Ingest.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar">
         <item name="android:background">@color/app_bar_primary_background</item>
-    </style>	
-	
+    </style>
+
 </resources>

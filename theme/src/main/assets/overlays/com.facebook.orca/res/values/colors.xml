@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_app_color">#ff0084ff</color>
+    <color name="main_app_color_dark">#ff0070d8</color>
+    <color name="main_app_color_darker">#ff004789</color>
+    <color name="orca_neue_primary">#ff0084ff</color>
+    <color name="black70a">#b2505050</color>
+    <color name="black10a">#1a505050</color>
+    <color name="black25a">#40505050</color>
+    <color name="black50a">#80505050</color>
+    <color name="black">#fffafafa</color>
+    <color name="solid_black">#fffafafa</color>
+    <color name="fbui_black">#fffafafa</color>
+    <color name="thread_tile_badge_shadow">#fffafafa</color>
+    <color name="voip_blue">#ffffffff</color>
+
+    <color name="sqr__orca_statusbar_color">#ff004789</color>
+
+    <color name="msgr_custom_threads_neue_primary">#fffafafa</color>
+
+    <color name="orca_neue_banner_background">#fffafafa</color>
+
+    <color name="rtc_action_bar_pressed">#26fafafa</color>
+    <color name="orca_reg_light_blue_button_text_color_enabled">#ff383838</color>
+    <color name="profile_list_name_color">#ff505050</color>
+
+    <color name="preference_category_text_color">#ff303030</color>
+    <color name="preference_secondary_text_color">#ff505050</color>
+    <color name="preference_items_divider_color">#00000000</color>
+    <color name="orca_neue_menu_text_color">#ff505050</color>
+
+    <color name="orca_neue_primary_selected">#fff7f7f7</color>
+
+    <color name="light_orca_blue">#ff0084ff</color>
+    <color name="medium_orca_blue">#ff0084ff</color>
+    <color name="dark_orca_blue">#ff0084ff</color>
+    <color name="fbui_white">#ff0084ff</color>
+    <color name="composer_background">#fff1f1f1</color>
+    <color name="messaging_full_screen_background_color">#fff9f9f9</color>
+
+    <color name="broken_white">#fffafafa</color>
+    <color name="neue_tab_placerholder_background">#ffffffff</color>
+    <!-- <color name="messaging_full_screen_action_bar_color">@drawable/testing</color> -->
+</resources>

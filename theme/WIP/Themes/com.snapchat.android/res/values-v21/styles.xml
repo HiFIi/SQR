@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="SnapchatTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
-    </style>
-    <style name="Theme.Dialog.Alert" parent="@android:style/Theme.Material.Dialog">
-    </style>
-    <style name="Theme.IAPTheme" parent="@android:style/Theme.Material.Light">
-    </style>
-    <style name="settings_item_name_linear" parent="@android:style/TextAppearance.Material.Medium">
-    </style>
-    <style name="settings_item_subtext" parent="@android:style/TextAppearance.Material.Small">
-    </style>
-    <style name="settings_item_text" parent="@android:style/TextAppearance.Material.Small">
-    </style>
-    <style name="spinner_text_appearance_spinner_item" parent="@android:style/TextAppearance.Material.Widget.TextView.SpinnerItem">
-    </style>
-    <style name="white_spinner" parent="@android:style/Widget.Material.TextView.SpinnerItem">
-    </style>
+    <style name="SnapchatTheme" parent="@android:style/Theme.Material.Light.NoActionBar"></style>
+    <style name="Theme.Dialog.Alert" parent="@android:style/Theme.Material.Dialog"></style>
+    <style name="Theme.IAPTheme" parent="@android:style/Theme.Material.Light"></style>
+    <style name="settings_item_name_linear"
+        parent="@android:style/TextAppearance.Material.Medium"></style>
+    <style name="settings_item_subtext"
+        parent="@android:style/TextAppearance.Material.Small"></style>
+    <style name="settings_item_text" parent="@android:style/TextAppearance.Material.Small"></style>
+    <style name="spinner_text_appearance_spinner_item"
+        parent="@android:style/TextAppearance.Material.Widget.TextView.SpinnerItem"></style>
+    <style name="white_spinner"
+        parent="@android:style/Widget.Material.TextView.SpinnerItem"></style>
 </resources>

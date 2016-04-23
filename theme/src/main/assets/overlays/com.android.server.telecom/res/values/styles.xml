@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Telecomm.Transparent" parent="@android:style/Theme.Material">
+        <item name="android:colorAccent">#f1f1f1</item>
+        <item name="android:colorPrimary">#ff303030</item>
+        <item name="android:colorPrimaryDark">#141517</item>
+        <item name="android:navigationBarColor">#141517</item>
+        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+    </style>
+    <style name="Theme.Telecom.DialerSettings" parent="@android:style/Theme.Material">
+        <item name="android:colorAccent">#f1f1f1</item>
+        <item name="android:colorPrimary">#ff303030</item>
+        <item name="android:colorPrimaryDark">#141517</item>
+        <item name="android:navigationBarColor">#141517</item>
+        <item name="android:windowBackground">@drawable/background_holo_dark</item>
+        <item name="android:actionBarStyle">@style/Theme.ActionBar</item>
+    </style>
+    <style name="Theme.ActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background">@drawable/settings_header</item>
+        <item name="android:elevation">0dp</item>
+    </style>
+    <style name="TelecomDialerSettingsActionBarTitleText"
+        parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/dialer_settings_actionbar_text_color</item>
+    </style>
+</resources>

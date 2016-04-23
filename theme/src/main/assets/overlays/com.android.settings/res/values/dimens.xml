@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    
-	<dimen name="dashboard_tile_image_size">38.0dip</dimen>
-	<dimen name="switchbar_subsettings_margin_start">56.0dip</dimen>
+
+    <dimen name="dashboard_tile_image_size">24.0dip</dimen>
+    <dimen name="switchbar_subsettings_margin_start">56.0dip</dimen>
     <dimen name="switchbar_subsettings_margin_end">16.0dip</dimen>
-	
-	<dimen name="dashboard_category_title_height">0dp</dimen>
+
+    <dimen name="dashboard_category_title_height">0dp</dimen>
     <dimen name="dashboard_category_elevation">4dp</dimen>
     <dimen name="dashboard_category_padding_start">16dp</dimen>
     <dimen name="dashboard_category_padding_end">16dp</dimen>
     <dimen name="actionbar_size">56.0dip</dimen>
-    
+
 </resources>
